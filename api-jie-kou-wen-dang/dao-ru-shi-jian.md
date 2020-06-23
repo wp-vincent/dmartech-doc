@@ -84,7 +84,7 @@ secret key 在数据中心-API数据源详情中找到。
     "event": "order_detail",
     "properties": {
         "mobile": "18366668888",
-        "email": "zhangsan@qdum.com",
+        "email": "zhangsan@sample.com",
         "event_id": "2018071216423310001",
         "create_time": "2018-07-12 16:42:33",
         "shop_name": "<门店名称>",

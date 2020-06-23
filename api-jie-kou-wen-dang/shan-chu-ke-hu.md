@@ -67,7 +67,7 @@ secret key 在数据中心-API数据源详情中找到。
     "type": "user_delete",
     "properties": {
         "mobile": "18366668888",
-        "email": "zhangsan@qdum.com"
+        "email": "zhangsan@sample.com"
     }
 }
 ```
