@@ -1,34 +1,46 @@
----
-description: 首页包含一些关键的数据指标
----
+# Contacts
 
-# 首页
+## Contacts Management
 
-## 首页数据统计方法说明
+When using Dmartech, it is generally necessary to import all contacts data owned by the company firstly to Dmartech, and all marketing plans will be based on these contacts. 
 
-首页的关键指标包括：订单量，订单金额，平均客单价，新增会员和新增粉丝。
+Choose **Contacts &gt; Contacts** from the main menu to view contacts overview and contacts list. The columns that need to be displayed in the list can be set by yourself. Click Custom **display columns**, select the columns to be displayed from the left side of the pop-up box and add them to the right , and just remove the columns that don’t need to be displayed on the right to the left. 
 
-右上角的**时间选择器**可以选择首页数据统计的时间区间。
+![](.gitbook/assets/tu-pian-1%20%282%29.png)
 
-![&#x56FE;1&#x2014;&#x9996;&#x9875;&#x6570;&#x636E;&#x6307;&#x6807;](.gitbook/assets/image%20%28230%29.png)
+## Search for Contacts 
 
-订单量、订单金额、和平均客单价对应的是**数据中心--元数据--事件管理** 列表中的**订单（order）**, 和 **订单详情（order\_detail）**这两个事件。平均客单价的统计方法为：单位时间内的订单总金额/订单量。
+In the contacts list, you can search for contacts based on any field. Fuzzy query is also supported. First select the field that need to be matched, then enter the keyword and click , and all contacts containing the keyword will be displayed in the list.
 
-新增会员是对**数据中心--元数据--用户属性** 列表中的**会员ID\(member\_id\)**进行统计。
+![](.gitbook/assets/tu-pian-2%20%281%29.png)
 
-新增粉丝是在微信服务号授权Dmartech后，自动通过微信接口获取的。
+## Contact Details
 
-#### 首页图表统计说明如下：
+Click the contact row in the contacts list to view the contact details page, which displays a 360-degree panoramic view of the contact. The details mainly contain the following content:
 
-| 序号 | 图表名称 | 相关数据接口 | 统计说明 | 备注 |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | 订单成交量 | order; order\_detail | 根据订单日期统计订单数量和金额。受渠道影响是指该下单的用户近期在该渠道有过反馈行为。转化统计即有反馈行为用户的订单统计。 | 隔天统计 |
-| 2 | 非会员、会员、粉丝发展趋势 | user | 统计导入的客户是否具有联系方式（email, mobile, openid）。三种联系方式对应三个下发渠道，数据完整度越高表明与客户沟通的方法越多。 | 隔天统计 |
-| 3 | 多渠道营销 | / | 统计有渠道反馈用户带来的订单和订单金额。右图为各个旅程带来的订单排名。 | 隔天统计 |
+1.The red area 1 displays the important personal information of the contact, such as mobile, email, WeChat nickname and so on. 
 
-![&#x56FE;2&#x2014;&#x8BA2;&#x5355;&#x6210;&#x4EA4;&#x91CF;](.gitbook/assets/image%20%28229%29.png)
+2.The red area 2 displays the contact's subscription status of each channel, including global subscription, email subscription, and mobile subscription status. The value of **Mobile subscribe** is Yes indicates both SMS and MMS have subscribed. The value of **Global subscribe** is No indicates both mobile and email have unsubscribed. 
 
-![&#x56FE;3&#x2014;&#x975E;&#x4F1A;&#x5458;&#x3001;&#x4F1A;&#x5458;&#x3001;&#x7C89;&#x4E1D;&#x53D1;&#x5C55;&#x8D8B;&#x52BF;](.gitbook/assets/image%20%28402%29.png)
+3.The red area 3 of displays the current **Follower Label** and **Contact Label** of the contact, and labels can be added or deleted directly. 
 
-![&#x56FE;4&#x2014;&#x591A;&#x6E20;&#x9053;&#x8425;&#x9500;](.gitbook/assets/image%20%28341%29.png)
+4.The red area 4 displays contact behavior dynamics and consumption history. The information flow view of **Contact dynamic** records all the behavior events of the contact in chronological order, such as mail opened, WeChat menu clicked, WeChat QR code scanned, etc. You can download events by clicking . After switching to calendar info view, you can view the contact’s activity time and active time period at a glance. **The events dynamically recorded by contact behaviors are preset events in the system. For details, please refer to Metadata&gt;Event Definition**
+
+5.The red area 5 displays all attributes of the contact, which are the current latest values and cannot be edited and modified directly. If you want to modify the attributes’ values of the contact, you can re-create or upload the contact \(keep the primary key field value unchaned, and just modify the values of other fields to new values\).
+
+![](.gitbook/assets/tu-pian-3%20%281%29.png)
+
+![](.gitbook/assets/tu-pian-4%20%281%29.png)
+
+
+
+
+
+
+
+
+
+|  |
+| :--- |
+
 
