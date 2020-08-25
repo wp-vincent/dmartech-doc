@@ -24,7 +24,7 @@ Dmartech offers free training opportunities for each new client every Tuesday. I
 
 Create a TS ticket by clicking Account Name &gt; **Supports** at the top right corner as shown in the figure below. In the ticket you can describe the problem encountered and send it. The technical support staff will then respond and process it.
 
-![](.gitbook/assets/image%20%28473%29.png)
+![](.gitbook/assets/image%20%28474%29.png)
 
 
 
