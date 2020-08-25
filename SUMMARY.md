@@ -15,8 +15,6 @@
 
 ## Dmartech案例
 
-* [会议全流程自动化](dmartech-an-li/hui-yi-quan-liu-cheng-zi-dong-hua.md)
-
 ## API接口文档
 
 * [导入用户](api-jie-kou-wen-dang/dao-ru-ke-hu.md)
