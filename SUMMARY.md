@@ -1,11 +1,8 @@
 # Table of contents
 
 * [Brief Description](README.md)
-* [Overview](dmartech-gai-shu/README.md)
-  * [Dmartech是什么](dmartech-gai-shu/dmartech-shi-shen-me.md)
-  * [Dmartech能做什么](dmartech-gai-shu/dmartech-neng-zuo-shen-me.md)
-  * [Dmartech怎么做](dmartech-gai-shu/dmartech-zen-me-zuo.md)
-* [新手指引](xin-shou-zhi-yin.md)
+* [Overview](dmartech-gai-shu.md)
+* [Sign in to Dmartech](xin-shou-zhi-yin.md)
 * [基本概念](ji-ben-gai-nian/README.md)
   * [名词解释](ji-ben-gai-nian/ming-ci-jie-shi.md)
   * [控件说明](ji-ben-gai-nian/kong-jian-shuo-ming.md)
