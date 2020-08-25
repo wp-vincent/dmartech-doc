@@ -10,8 +10,7 @@
 * [Appendix 1 Dmartech Glossary](ying-xiao-lv-cheng.md)
 * [Appendix 2 Journey Controls Description](shu-ju-zhong-xin.md)
 * [数据分析](shu-ju-fen-xi.md)
-* [设置与帮助](ge-ren-zhong-xin/README.md)
-  * [企业设置](ge-ren-zhong-xin/qi-ye-she-zhi.md)
+* [设置与帮助](ge-ren-zhong-xin.md)
 * [Dmartech功能介绍](dmartech-gong-neng-jie-shao.md)
 
 ## Dmartech案例
