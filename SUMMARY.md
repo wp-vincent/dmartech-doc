@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Brief Description](README.md)
-* [Dmartech概述](dmartech-gai-shu/README.md)
+* [Overview](dmartech-gai-shu/README.md)
   * [Dmartech是什么](dmartech-gai-shu/dmartech-shi-shen-me.md)
   * [Dmartech能做什么](dmartech-gai-shu/dmartech-neng-zuo-shen-me.md)
   * [Dmartech怎么做](dmartech-gai-shu/dmartech-zen-me-zuo.md)
