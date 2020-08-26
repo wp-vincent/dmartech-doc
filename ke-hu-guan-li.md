@@ -194,3 +194,32 @@ Method 2: Create an email by using template
 
 ![](.gitbook/assets/tu-pian-42.png)
 
+### Create an Email by Pasting Code
+
+Step1 Choose **Marketing &gt; Contents** from the main menu. Click the Email tab. Click “Add content“. Then click Past in code in create method.
+
+![](.gitbook/assets/tu-pian-43.png)
+
+![](.gitbook/assets/tu-pian-44.png)
+
+**Step 2** Enter the code editor, you can paste the html code into the editor after clicking Source.
+
+![](.gitbook/assets/tu-pian-45.png)
+
+**Step 3** Click “Source“ again to view the mail, you can directly set various styles and effects in the editor.
+
+![](.gitbook/assets/tu-pian-46.png)
+
+### Create an Email by Importing Zip Package
+
+**Step 1** Choose Marketing &gt; Contents from the main menu. Click the Email tab. Click “Add Content“. Then click Import zip in create method. 
+
+**Step 2** Import a local zip package. The compressed package should comply with the following rules: 
+
+* The compressed package needs to contain an html file and an image folder, the name of the image folder must be images. 
+* The name of the image file must be in English, without Chinese characters or special symbols.
+
+**NOTE** 
+
+_If some images in the email are not displayed after successfully uploading the zip file, please check whether the case of the image suffix is the same as the case of the html image suffix. If they are inconsistent, the image may not be displayed._
+
