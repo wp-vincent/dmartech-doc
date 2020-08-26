@@ -7,6 +7,7 @@
 * [Contacts](shou-ye.md)
 * [Segmentation](wei-xin-guan-li.md)
 * [Contents Creation and Management — Mail/ SMS/ MMS](ke-hu-guan-li.md)
+* [Forms Creation and Management](forms-creation-and-management.md)
 * [Appendix 1 Dmartech Glossary](ying-xiao-lv-cheng.md)
 * [Appendix 2 Journey Controls Description](shu-ju-zhong-xin.md)
 * [数据分析](shu-ju-fen-xi.md)
