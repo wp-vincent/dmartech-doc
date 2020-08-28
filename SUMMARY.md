@@ -38,6 +38,7 @@
     * [数据中心](shu-ju-zhong-xin/shu-ju-guan-li/shu-ju-zhong-xin.md)
     * [元数据](shu-ju-zhong-xin/shu-ju-guan-li/yuan-shu-ju.md)
     * [标签管理](shu-ju-zhong-xin/shu-ju-guan-li/biao-qian-guan-li.md)
+    * [打分评级](shu-ju-zhong-xin/shu-ju-guan-li/da-fen-ping-ji.md)
   * [数据报告](shu-ju-zhong-xin/shu-ju-bao-gao/README.md)
     * [联系人相关](shu-ju-zhong-xin/shu-ju-bao-gao/ke-hu-xiang-guan.md)
     * [订单相关](shu-ju-zhong-xin/shu-ju-bao-gao/ding-dan-xiang-guan.md)
