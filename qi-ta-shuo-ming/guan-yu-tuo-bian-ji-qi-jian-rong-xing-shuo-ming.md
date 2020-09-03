@@ -4,7 +4,7 @@ description: About drag and drop editor compatibility instructions
 
 # 关于拖拽编辑器兼容性说明
 
-邮件的本质是HTML&CSS代码，而可惜的是，邮件编码至今**没有统一的标准**，各家邮件服务商e及开发者都可以制定自己的邮件编码渲染标准。
+邮件的本质是HTML&CSS代码，而可惜的是，邮件编码至今**没有统一的标准**，各家邮件服务商以及开发者都可以制定自己的邮件编码渲染标准。
 
 Email is based on HTML & CSS code,  unfortunately, there is **no standard for email coding**, and various email service providers have developed their own mail coding rendering standards.
 
