@@ -20,7 +20,7 @@ a.Select the segment to be sent, the multiple segments also can be selected. As 
 
 b.Judge whether the contacts in the selected segment has a value in their WeChat unionid field. If yes, a WeChat graphic message will be sent out. If no, continue to judge whether the email field has a value. Then send an email or send a short message according to the result.
 
-![](../../.gitbook/assets/image%20%28524%29.png)
+![](../.gitbook/assets/image%20%28530%29.png)
 
 The general usage scenario of a single journey is that all the contacts in the specified segment will enter the journey at the same time. You can set filter criteria according to attribute or event to send marketing contents to qualified contacts. Of course, you can also directly send marketing contents to contacts in the specified segment.
 
@@ -42,7 +42,7 @@ c.Send expiration and purchase reminder emails to the contacts after 6 days.
 
 d.Judge whether the trial user has placed an order. If the order is placed, tag the contact as first order; if the order is not placed, tag the contact as trial not placed.
 
-![](../../.gitbook/assets/image%20%28525%29.png)
+![](../.gitbook/assets/image%20%28531%29.png)
 
 * Clue incubation journey 
 
@@ -58,11 +58,11 @@ c.Judge whether to place an order. If yes, tag the contact as first order; if no
 
 d.Continue to judge whether to place an order. If yes, tag the contact as first order; if not, tag the contact as not hatched.
 
-![](../../.gitbook/assets/image%20%28538%29.png)
+![](../.gitbook/assets/image%20%28546%29.png)
 
 * Maintain old customers journey 
 
 In order to better serve customers, promote contract renewal, and let the new users become a long-term customer, we need to send the satisfaction survey form to the customer since the new user formally uses the product 30 days later. Then respond the Thanks email immediately after receiving the form submission. Reply the corresponding email immediately in response to the different content submitted by the customer.
 
-![](../../.gitbook/assets/image%20%28509%29.png)
+![](../.gitbook/assets/image%20%28511%29.png)
 

@@ -6,7 +6,7 @@ You can view and download reports related to marketing journeys and channels in 
 
  Select the data Source. You can select multiple journeys in a specified time period or specify a single journey. The report presented below will be the journey report in the data source. In other words, the report can be a single trip report or a cumulative report of multiple trips.
 
-![](../../.gitbook/assets/image%20%28521%29.png)
+![](../.gitbook/assets/image%20%28526%29.png)
 
 The report includes: 
 
@@ -20,13 +20,13 @@ Count the number of participants in the journeys of the data source. The contact
 
 **Milestones usually refer to the core steps or core nodes in a journey. You can freely mark related controls as milestones.**
 
-![](../../.gitbook/assets/image%20%28510%29.png)
+![](../.gitbook/assets/image%20%28512%29.png)
 
 * **24-hour performance**
 
 The time period distribution of the recipient response events of the different channels. You can view which time period the contacts are generally more active and then optimize the sending time of the contents.
 
-![](../../.gitbook/assets/image%20%28499%29.png)
+![](../.gitbook/assets/image%20%28501%29.png)
 
 * **Email performance** 
 
@@ -44,7 +44,7 @@ Display the number of recipients in each step of the SMS marketing process \(inc
 
 Display the number of recipients in each step in the MMS marketing process.
 
-![](../../.gitbook/assets/image%20%28494%29.png)
+![](../.gitbook/assets/image%20%28494%29.png)
 
 _NOTE_ 
 
@@ -54,29 +54,29 @@ _The above data are all be counted in the next day._
 
 **Step 1**Choose Data center &gt; Campaign report from the main menu. Select the Messages list tab on the top navigation bar to enter the sending list page.
 
-![](../../.gitbook/assets/image%20%28498%29.png)
+![](../.gitbook/assets/image%20%28499%29.png)
 
 **Step 2** Select the data Source. You can select multiple journeys in a specified time period or specify a single journey. The sending status of each channel will be displayed in the list below.
 
 **Step 3** Click Task list of the Email channel to view the email report, and similarly, click Task list of other channels to view the corresponding report.
 
-![](../../.gitbook/assets/image%20%28501%29.png)
+![](../.gitbook/assets/image%20%28503%29.png)
 
 **Step 4**  You can find the Task name of the report you want to view in the task list page. View/ download the report.
 
-![](../../.gitbook/assets/image%20%28539%29.png)
+![](../.gitbook/assets/image%20%28547%29.png)
 
 **Step 5** Enter the email report details page. Click to select two tasks and compare reports.
 
-![](../../.gitbook/assets/image%20%28504%29.png)
+![](../.gitbook/assets/image%20%28506%29.png)
 
 The following is the content of the mail report: 
 
 * **Summary**
 
-![](../../.gitbook/assets/image%20%28500%29.png)
+![](../.gitbook/assets/image%20%28502%29.png)
 
-![](../../.gitbook/assets/image%20%28531%29.png)
+![](../.gitbook/assets/image%20%28537%29.png)
 
 **What is the difference between open and render?** 
 
@@ -86,31 +86,31 @@ The basis for judging whether to open the email is whether to load the hidden tr
 
 Display the statistics of the number of contacts of sent, delivered, opened, and clicked after the email was sent. You can view the effect of the sent email through the statistical funnel.
 
-![](../../.gitbook/assets/image%20%28529%29.png)
+![](../.gitbook/assets/image%20%28535%29.png)
 
 * **Email service providers radio** 
 
 Service provider statistics of recipient mailboxes. You can check the number and proportion of recipients of each service provider.
 
-![](../../.gitbook/assets/image%20%28535%29.png)
+![](../.gitbook/assets/image%20%28543%29.png)
 
 * **Open device ratio** 
 
 Statistics of the recipient’s device to open the mailbox, such as PC, mobile or others.
 
-![](../../.gitbook/assets/image%20%28506%29.png)
+![](../.gitbook/assets/image%20%28508%29.png)
 
 * **EDM opening/ clicking situation in different countries**
 
  Count the number of opens and clicks in different countries according to the national latitude.
 
-![](../../.gitbook/assets/image%20%28520%29.png)
+![](../.gitbook/assets/image%20%28525%29.png)
 
 * **Custom a report**
 
 Dmartech support custom reports in order to meet the different report needs of users. Click Create a new report at the bottom of the page to create. Set the Index and User properties to analysis the report.
 
-![](../../.gitbook/assets/image%20%28513%29.png)
+![](../.gitbook/assets/image%20%28517%29.png)
 
 _NOTE_ 
 
@@ -126,7 +126,7 @@ Choose Data center &gt; Campaign report from the main menu. Select the Export Da
 
 Export the original sending data of the specified mail task according to the mail sending indicators \(All type, sent, open, click, soft bounces, hard bounces, unsubscribe\). For example, export the voucher\_code, Organization\_PACD and Name\_PACD of the contacts who opened the mail named 2008\_IN\_Webinar\_IdeaHub\_en.
 
-![](../../.gitbook/assets/image%20%28512%29.png)
+![](../.gitbook/assets/image%20%28515%29.png)
 
 * Types: All type, sent, open, click, soft bounces, hard bounces, unsubscribe. 
 * Automations: Select a journey within a period of time or directly specify a journey, up to 4 journeys can be selected. 
@@ -144,13 +144,13 @@ _NOTE_
 
 **Email send detail**
 
-![](../../.gitbook/assets/image%20%28502%29.png)
+![](../.gitbook/assets/image%20%28504%29.png)
 
 The header of the downloaded file:
 
-![](../../.gitbook/assets/image%20%28497%29.png)
+![](../.gitbook/assets/image%20%28498%29.png)
 
 * **Mail comparison data**
 
-![](../../.gitbook/assets/image%20%28516%29.png)
+![](../.gitbook/assets/image%20%28520%29.png)
 

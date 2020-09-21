@@ -46,5 +46,21 @@ Variable Condition is similar to Event Condition, and the condition judgment is 
 
 ### Condition Spilt
 
-Condition Spilt is a unique control for single and recurring journeys. It supports setting condition
+**Condition Spilt** is a unique control for single and recurring journeys.
+
+It supports the comprehensive setting of filter criteria combined with contact attributes and behavioral events. It can be used to filter whether the contacts meet certain criteria. If contacts meet certain criteria, they will go into the Yes branch, and otherwise they will go into the no branch. 
+
+### Random Spilt 
+
+**Random Spilt** is a unique control for single and cycle journeys. 
+
+It is used to send plan A and plan B randomly in proportion to verify the attractiveness of different content to contacts. 
+
+### A/B Test split
+
+ **A/B Test split** is used to test the marketing effect of different emails, and up to 4 emails can be selected for testing. Dmartech will send different emails to different contacts proportionally, and judge which email is more effective according to indicators such as numbers of open and click. 
+
+### **Exit** 
+
+**Exit** is the final node of the journey. The Exit control must be added manually at the end of each branch in the real-time journey. Dmartech will add the Exit control by default in the single time journey and the cycle journey so you do not need to set it.
 
