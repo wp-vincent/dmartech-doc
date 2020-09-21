@@ -150,7 +150,7 @@ The header of the downloaded file:
 
 ![](../../.gitbook/assets/image%20%28497%29.png)
 
-* Mail comparison data
+* **Mail comparison data**
 
 ![](../../.gitbook/assets/image%20%28516%29.png)
 
