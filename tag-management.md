@@ -16,25 +16,25 @@ We introduced follower tags in WeChat Management. Follower tags are the tags whi
 
 **Step 2** Click on the created tag and set rules of the tag. Add a filter criterion about contacts attributes.
 
-![](.gitbook/assets/image%20%28498%29.png)
+![](.gitbook/assets/image%20%28501%29.png)
 
 **Step 3** After setting the filter criteria, click"Add label" if you need to add this tag for the contacts that meet the filter criteria, click "Delete label" if you need to remove this tag for the contacts that meet the filter criteria. 
 
 **Step 4** Dmartech will automatically add or remove the tag for contacts that meet the filter criteria. The tagging progress will be displayed in the tag box after adding the rule. You can also manually click to view the number of the contacts which are tagged.
 
-![](.gitbook/assets/image%20%28546%29.png)
+![](.gitbook/assets/image%20%28555%29.png)
 
 In addition to tagging contacts through adding rules, you can also set tags by adding related controls such as Add Tag and Remove Tag in the marketing journey, or creating a QR code with parameters that can be tagged after scanning the QR code.
 
 ### Vew logs of tagging
 
-![](.gitbook/assets/image%20%28492%29.png)
+![](.gitbook/assets/image%20%28494%29.png)
 
-![](.gitbook/assets/image%20%28520%29.png)
+![](.gitbook/assets/image%20%28525%29.png)
 
 ### Hide a tag
 
 After the tag is set to hidden, the hidden tag will not be displayed in the Contact detail page.
 
-![](.gitbook/assets/image%20%28562%29.png)
+![](.gitbook/assets/image%20%28574%29.png)
 

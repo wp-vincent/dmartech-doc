@@ -21,7 +21,7 @@ To use the marketing journey editor, the following conditions are generally requ
 
 Generally, it is recommended to set groups according to marketing scene or creator or department since it is easy to find and manage journeys.
 
-![](../.gitbook/assets/image%20%28564%29.png)
+![](../.gitbook/assets/image%20%28576%29.png)
 
 **Step 2**Click"create" to enter the Create New Automation explorer. Then choose Simple Flow tab to start a new single journey by setting following parameters: 
 
@@ -30,7 +30,7 @@ Generally, it is recommended to set groups according to marketing scene or creat
 * **Name**: Set the name of the journey. 
 * **Folder**: To set which group will the journey belongs to, you can select an existing group by selecting Add to Folder, or you can directly create a new group by selecting Add to New Folder.
 
-![](../.gitbook/assets/image%20%28491%29.png)
+![](../.gitbook/assets/image%20%28493%29.png)
 
 **Step 3** Click "Confirm" to enter the drag-and-drop drawing page. 
 
@@ -39,29 +39,29 @@ Journey drawing includes three steps: drag and drop the control — connection �
 * Click **Segmentation** to view the names of all created segment. Select a segment as the audience for this journey. 
 * Click **Account** to view the WeChat official account bound to the current account. Select it to use all followers as the audience for this journey.
 
-![](../.gitbook/assets/image%20%28557%29.png)
+![](../.gitbook/assets/image%20%28569%29.png)
 
 **Step 4** Drag and drop the rest of the controls \(Messages or Flow Actions\) one by one according to the marketing journey plan. For example, design according to the following process:
 
-![](../.gitbook/assets/image%20%28509%29.png)
+![](../.gitbook/assets/image%20%28513%29.png)
 
 The restoration design during the journey is as follows:
 
-![](../.gitbook/assets/image%20%28548%29.png)
+![](../.gitbook/assets/image%20%28557%29.png)
 
 **Step 5** Click the control and then to set details of the control. The setting of the Condition spilt control is as figure shows below:
 
-![](../.gitbook/assets/image%20%28511%29.png)
+![](../.gitbook/assets/image%20%28516%29.png)
 
 **Step 6** Click “Start“ to confirm the settings of the journey and preview whether the contents in the journey are correct. Please make sure that the balance of the sending channel is sufficient. Then click “Start now“ after checking the confirmation to start the journey. 
 
 There will be a prompt if the settings are wrong. Just modify the controls settings or paths according to the prompt. Generally speaking, it is necessary to pay attention to the self-consistent time such as sending time and judgment time.
 
-![](../.gitbook/assets/image%20%28496%29.png)
+![](../.gitbook/assets/image%20%28499%29.png)
 
 * Description of A/B Test split Control Only a single time journey supports A/B testing. You can compare the different effects of multiple mails by A/B test. Select an audience and drag the A/B Test split control to the canvas.
 
-![](../.gitbook/assets/image%20%28556%29.png)
+![](../.gitbook/assets/image%20%28567%29.png)
 
 Click to set details of the A/B Test split control. The main setting parameters are explained as follows: 1\)Element Title: A/B Test. 
 
@@ -83,7 +83,7 @@ Click to set details of the A/B Test split control. The main setting parameters 
 
 8\)Evaluation time: Set a time to evaluate the winning email, and immediately send the winning email to the remaining contacts.
 
-![](../.gitbook/assets/image%20%28540%29.png)
+![](../.gitbook/assets/image%20%28546%29.png)
 
 ### Create a real-time journey
 
@@ -104,25 +104,25 @@ Click to set details of the A/B Test split control. The main setting parameters 
 
 **Step 2** Click "Confirm" to enter the drag-and-drop drawing page. Drag and drop the controls to canvas on the right area one by one according to the marketing journey plan. For example, design according to the following process:
 
-![](../.gitbook/assets/image%20%28555%29.png)
+![](../.gitbook/assets/image%20%28566%29.png)
 
-![](../.gitbook/assets/image%20%28558%29.png)
+![](../.gitbook/assets/image%20%28570%29.png)
 
 **Step 3** Click each control to set the specific information of each control. For example, you need to set Schedule, Email subject and other parameters for each Messages control. It should be noted that the sending time of each content needs to be self-consistent. The event judgment time should also be considered if there has Event condition controls. You need to set the event conditions to be judged in the Event condition control, see below for details.
 
-![](../.gitbook/assets/image%20%28525%29.png)
+![](../.gitbook/assets/image%20%28530%29.png)
 
-![](../.gitbook/assets/image%20%28493%29.png)
+![](../.gitbook/assets/image%20%28496%29.png)
 
 ![](../.gitbook/assets/image%20%28488%29.png)
 
 **Step4** Click "Start" after completing the editing. It is recommended that test whether the journey can be sent out correctly by selecting Save and Test and setting a test group \(usually internal contacts\), which can avoid causing harassment or inaccessibility to contacts due to issues during the journey execution.
 
-![](../.gitbook/assets/image%20%28532%29.png)
+![](../.gitbook/assets/image%20%28538%29.png)
 
 **Step 5** Start the journey officially.
 
-![](../.gitbook/assets/image%20%28537%29.png)
+![](../.gitbook/assets/image%20%28543%29.png)
 
 _NOTE_
 
@@ -138,7 +138,7 @@ _NOTE_
 * Folder: To set which group will the journey belongs to, you can select an existing group by selecting Add to Folder, or you can directly create a new group by selecting Add to New Folder. 
 * Repetition period: You can choose to execute the journey by day, week or month, then set the repetition period, finally set the ending method by frequency or specific time.
 
-![](../.gitbook/assets/image%20%28551%29.png)
+![](../.gitbook/assets/image%20%28562%29.png)
 
 Step2 Click "Confirm" to enter the journey drawing page. The drawing steps are exactly same as the single time journey. Please refer to Create a Single Time Journey.
 
@@ -150,7 +150,7 @@ All journeys are subject to the approval process if Automation approval workflow
 
 You can check the approval status in the journey group named My Requests.
 
-![](../.gitbook/assets/image%20%28526%29.png)
+![](../.gitbook/assets/image%20%28531%29.png)
 
 * Approver's perspective 
 

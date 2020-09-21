@@ -17,4 +17,5 @@
 * [Appendix 1 Dmartech Glossary](ying-xiao-lv-cheng.md)
 * [Appendix 2 Journey Controls Description](shu-ju-zhong-xin.md)
 * [Appendix 3 Filter Criteria Description](untitled.md)
+* [Appendix 4 Quickly Understand the Marketing Journey](appendix-4-quickly-understand-the-marketing-journey.md)
 
