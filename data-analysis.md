@@ -8,7 +8,7 @@ Click Data analysis &gt; Dashboard enter dashboard to manage and create pages.
 
  Users can add components as many as they want. In order to manage dashboards properly, it is suggested that you group your dashboards to avoid missing key data.
 
-![](.gitbook/assets/image%20%28500%29.png)
+![](.gitbook/assets/image%20%28501%29.png)
 
 Each dashboard includes: dashboard name, the number of reports in the dashboard, the creator, the number of views and create time. Click dashboard name can enter dashboard and view detailed reports. 
 
@@ -32,7 +32,7 @@ Event analysis is used to generate analysis reports according to the setting rel
 
 **Step 3** Click Save As Bookmark button on the top right corner to save the current chart as a bookmark. Choosing bookmark can view the chart when you creating dashboard. In addition, downloading raw data in csv format is also supported.
 
-![](.gitbook/assets/image%20%28524%29.png)
+![](.gitbook/assets/image%20%28527%29.png)
 
 ### The examples of event analysis 
 
@@ -56,11 +56,11 @@ A: If you want to know the total clicking number, you should set: Click Email of
 
 When you click run, you can set the x-axis and y-axis by yourself. Then you can see the chart below.
 
-![](.gitbook/assets/image%20%28513%29.png)
+![](.gitbook/assets/image%20%28515%29.png)
 
 The table under the chart is the event occurrence table.
 
-![](.gitbook/assets/image%20%28541%29.png)
+![](.gitbook/assets/image%20%28547%29.png)
 
 ### Contacts analysis 
 
@@ -74,11 +74,11 @@ Click Data analysis then click contact analysis. The steps are same as event ana
 
 **Step 2** Analyze the contact attributes and generate chart. You can also save them as bookmark or download the raw data in CSV format.
 
-![](.gitbook/assets/image%20%28539%29.png)
+![](.gitbook/assets/image%20%28545%29.png)
 
 When you run it, the chart is shown below:
 
-![](.gitbook/assets/image%20%28527%29.png)
+![](.gitbook/assets/image%20%28530%29.png)
 
 ## Contact group 
 
@@ -92,13 +92,13 @@ For example, if you want to filter out the contacts whose contact attributes mee
 
 **Step 2** Open the email in the past 7 days at least once is an event. Open email 3 times is event attribute.
 
-![](.gitbook/assets/image%20%28552%29.png)
+![](.gitbook/assets/image%20%28559%29.png)
 
 ### Visualized report 
 
 Dmartech offers various visualized reports by analysing meta data and group them. The visualized report is based on the data set.
 
-![](.gitbook/assets/image%20%28516%29.png)
+![](.gitbook/assets/image%20%28518%29.png)
 
 You can use different dimensions under the chart type bar. You can add all fields if you want to see all of them.
 

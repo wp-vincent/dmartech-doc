@@ -18,7 +18,7 @@ Step 1Choose Data center&gt; Meta data from the main menu. Select the User prope
 
 **Step 2** Click 'Save" to complete the creation.
 
-![](.gitbook/assets/image%20%28555%29.png)
+![](.gitbook/assets/image%20%28563%29.png)
 
 ### Customize Events
 
@@ -31,7 +31,7 @@ Custom events are generally used for event tracking or event records by API tran
 * Type: Choose one of the four types: string, integer, date and decimal. 
 * Length: Different attributes types have different lengths.
 
-![](.gitbook/assets/image%20%28532%29.png)
+![](.gitbook/assets/image%20%28536%29.png)
 
 **Step  2**  the event after creating the event properties. Select the Event management tab on the top navigation bar. Click "Add" to create an custom event by setting below parameters: 
 
@@ -45,7 +45,7 @@ Custom events are generally used for event tracking or event records by API tran
 * Display name: Set the displayed group name. 
 * Defined event: Check the custom event just created.
 
-![](.gitbook/assets/image%20%28521%29.png)
+![](.gitbook/assets/image%20%28524%29.png)
 
 ### Example
 
@@ -53,7 +53,7 @@ The group named email includes Open Email and Click Email events. The attributes
 
 The default preset events do not need to be edited. The above events will be automatically recorded when the contact has related behaviors. You can view the event record by clicking Contact dynamic in the Contact detail page.
 
-![](.gitbook/assets/image%20%28528%29.png)
+![](.gitbook/assets/image%20%28531%29.png)
 
 ### Evaluate Score
 
