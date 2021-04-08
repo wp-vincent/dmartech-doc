@@ -6,7 +6,15 @@ When using Dmartech, it is generally necessary to import all contacts data owned
 
 Choose **Contacts &gt; Contacts** from the main menu to view contacts overview and contacts list. The columns that need to be displayed in the list can be set by yourself. Click Custom **display columns**, select the columns to be displayed from the left side of the pop-up box and add them to the right , and just remove the columns that don’t need to be displayed on the right to the left. 
 
+Contacts are managed in four categories: 
 
+1\) Real-name contact: a contact with a mobile phone number or email address 
+
+2\) Anonymous contact: a contact whose mobile phone number or email number has no value 
+
+3\) WeChat fan contact: WeChat \_openid valued contact, that is, the contact bound to the WeChat official account 
+
+4\) All contacts: all contacts in the platform
 
 
 
