@@ -26,7 +26,7 @@ description: Dmartech登录及首页内容介绍
 
 3）沉睡联系人：指最近n个月（默认3个月）内没有主动产生行为事件的联系人（此数据延迟一天更新），统计其总数与环比增长
 
-![](.gitbook/assets/image%20%28604%29.png)
+![](.gitbook/assets/image%20%28605%29.png)
 
 * 营销旅程：统计旅程的数量、任务数、发送量、以及任务反馈数
 
@@ -38,7 +38,7 @@ description: Dmartech登录及首页内容介绍
 
 * 多渠道触达：指邮件、短信、微信可触达的人数。分别统计每个渠道的人数和全渠道打通的人数以及不同渠道组合的打通情况。
 
-![](.gitbook/assets/image%20%28613%29.png)
+![](.gitbook/assets/image%20%28614%29.png)
 
 * 获客引流：统计所选时间段内新增的联系人的来源。来源渠道有：手动倒入、表单接入、扫描二维码、公众搜索等
 
@@ -46,7 +46,7 @@ description: Dmartech登录及首页内容介绍
 
 首页页面展示如下：
 
-![](.gitbook/assets/image%20%28605%29.png)
+![](.gitbook/assets/image%20%28606%29.png)
 
 注：首次登录平台后，可以现在“[个人设置“](ge-ren-zhong-xin/ge-ren-she-zhi.md)设置个人及账号基本信息。
 
