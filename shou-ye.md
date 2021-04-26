@@ -16,7 +16,7 @@ description: Dmartech登录及首页内容介绍
 
 * 数据资产：全部联系人/实名/匿名/微信粉丝，各类数据的总数和新增情况，其中，总数有较上月较去年的增长分析，可以自行设定近多少天的新增数据；
 
-![](.gitbook/assets/image%20%28603%29.png)
+![](.gitbook/assets/image%20%28606%29.png)
 
 * 活跃度分析：关于活跃联系人、已接触联系人、沉睡联系人的数据统计。
 
@@ -26,19 +26,19 @@ description: Dmartech登录及首页内容介绍
 
 3）沉睡联系人：指最近n个月（默认3个月）内没有主动产生行为事件的联系人（此数据延迟一天更新），统计其总数与环比增长
 
-![](.gitbook/assets/image%20%28606%29.png)
+![](.gitbook/assets/image%20%28609%29.png)
 
 * 营销旅程：统计旅程的数量、任务数、发送量、以及任务反馈数
 
-![](.gitbook/assets/image%20%28600%29.png)
+![](.gitbook/assets/image%20%28602%29.png)
 
 * 内容与素材：邮件、短信、彩信、标签在指定时间段内的新增数量统计
 
-![](.gitbook/assets/image%20%28599%29.png)
+![](.gitbook/assets/image%20%28600%29.png)
 
 * 多渠道触达：指邮件、短信、微信可触达的人数。分别统计每个渠道的人数和全渠道打通的人数以及不同渠道组合的打通情况。
 
-![](.gitbook/assets/image%20%28618%29.png)
+![](.gitbook/assets/image%20%28621%29.png)
 
 * 获客引流：统计所选时间段内新增的联系人的来源。来源渠道有：手动倒入、表单接入、扫描二维码、公众搜索等
 
@@ -46,7 +46,7 @@ description: Dmartech登录及首页内容介绍
 
 首页页面展示如下：
 
-![](.gitbook/assets/image%20%28608%29.png)
+![](.gitbook/assets/image%20%28611%29.png)
 
 注：首次登录平台后，可以现在“[个人设置“](ge-ren-zhong-xin/ge-ren-she-zhi.md)设置个人及账号基本信息。
 

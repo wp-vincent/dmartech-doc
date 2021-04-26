@@ -8,7 +8,7 @@ description: 介绍Dmartech控件内筛选的内容定义
 
 如果您看过“[控件说明](https://doc.dmartech.cn/ji-ben-gai-nian/kong-jian-shuo-ming)”章节的内容，那您一定对事件判断、属性判断、条件分支这类判断控件有印象，筛选条件就是判断符号，例如联系人性别等于男，“等于“就是筛选条件。
 
-![](../.gitbook/assets/image%20%28610%29.png)
+![](../.gitbook/assets/image%20%28613%29.png)
 
 _**由于筛选条件过多，本节专门做整理，方便理解**_
 
