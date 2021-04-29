@@ -22,7 +22,7 @@ description: >-
 
 创建好表单之后，在**“设置”—“数据推送”**中填写数据回传的HTTP POST地址[https://gate.dmartech.cn/questionnaire/inner-api/questionnaire/v1/jishujuForm](https://gate.dmartech.cn/questionnaire/inner-api/questionnaire/v1/jishujuForm)，一定不要忘了哦，不然数据是没办法回传的。
 
-![&#x8BBE;&#x7F6E;&#x6570;&#x636E;&#x63A8;&#x9001;](../../../.gitbook/assets/image%20%28134%29.png)
+![&#x8BBE;&#x7F6E;&#x6570;&#x636E;&#x63A8;&#x9001;](../../.gitbook/assets/image%20%28134%29.png)
 
 #### 第二步：**接入金数据API**
 
@@ -30,19 +30,19 @@ description: >-
 
 注意哦：请勿随意绑定不同金数据账号的 API Key，此举会导致已发布的表表单无法再回收数据。
 
-![&#x5EFA;&#x7ACB;&#x8FDE;&#x63A5;](../../../.gitbook/assets/image%20%28458%29.png)
+![&#x5EFA;&#x7ACB;&#x8FDE;&#x63A5;](../../.gitbook/assets/image%20%28458%29.png)
 
 #### 第三步：**接入金数据表单**
 
 命名金数据表单，并将金数据表单的地址填写至Dmartech，获取表单。
 
-![&#x63A5;&#x5165;&#x91D1;&#x6570;&#x636E;&#x8868;&#x5355;](../../../.gitbook/assets/image%20%28407%29.png)
+![&#x63A5;&#x5165;&#x91D1;&#x6570;&#x636E;&#x8868;&#x5355;](../../.gitbook/assets/image%20%28407%29.png)
 
 #### 第四步：**字段匹配**
 
 获取表单后，因为金数据表单字段类型可能与Dmartech存在差异，所以需要进行表单字段匹配。
 
-![&#x5B57;&#x6BB5;&#x5339;&#x914D;](../../../.gitbook/assets/image%20%2873%29.png)
+![&#x5B57;&#x6BB5;&#x5339;&#x914D;](../../.gitbook/assets/image%20%2873%29.png)
 
 字段匹配完成后点击保存，就完成了金数据表单的接入。
 
@@ -52,13 +52,13 @@ description: >-
 
 可以在表单接入和编辑界面进行快速测试，也可以在列表操作中进入测试，测试填写的表单信息会在表单测试记录中显示，确保表单可正常回收数据。测试后，表单状态就会由“未测试”变为“已测试”。
 
-![&#x6D4B;&#x8BD5;&#x8868;&#x5355;](../../../.gitbook/assets/image%20%28206%29.png)
+![&#x6D4B;&#x8BD5;&#x8868;&#x5355;](../../.gitbook/assets/image%20%28206%29.png)
 
 #### 第六步：**正式发布**。
 
 测试后便可正式发布表单。
 
-![&#x6B63;&#x5F0F;&#x53D1;&#x5E03;](../../../.gitbook/assets/image%20%2878%29.png)
+![&#x6B63;&#x5F0F;&#x53D1;&#x5E03;](../../.gitbook/assets/image%20%2878%29.png)
 
 #### 第七步：**通过二维码或模板消息下发表单**
 
@@ -70,21 +70,21 @@ description: >-
 
 _**注：二维码绑定表单下发后，不能转发，因为表单链接携带参数，转发无效。**_
 
-![&#x4E8C;&#x7EF4;&#x7801;&#x4E0B;&#x53D1;&#x8868;&#x5355;](../../../.gitbook/assets/888.gif)
+![&#x4E8C;&#x7EF4;&#x7801;&#x4E0B;&#x53D1;&#x8868;&#x5355;](../../.gitbook/assets/888.gif)
 
 【模板消息下发】
 
 在模板消息中设置跳转表单，当用户收到模板消息后，点击模板消息就可以跳转
 
-![&#x6A21;&#x677F;&#x6D88;&#x606F;&#x4E0B;&#x53D1;&#x8868;&#x5355;](../../../.gitbook/assets/999.gif)
+![&#x6A21;&#x677F;&#x6D88;&#x606F;&#x4E0B;&#x53D1;&#x8868;&#x5355;](../../.gitbook/assets/999.gif)
 
 #### 第八步：**统计**。
 
 表单下发后，可在列表操作中点击【表单统计】查看数据收集结果。**支持下载详情**
 
-![](../../../.gitbook/assets/image%20%28425%29.png)
+![](../../.gitbook/assets/image%20%28425%29.png)
 
-![&#x8868;&#x5355;&#x7EDF;&#x8BA1;](../../../.gitbook/assets/image%20%28277%29.png)
+![&#x8868;&#x5355;&#x7EDF;&#x8BA1;](../../.gitbook/assets/image%20%28277%29.png)
 
 _**注：表单状态有未测试、已测试、已发布，只有完成测试的表单才可以正式发布**_
 
