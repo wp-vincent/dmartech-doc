@@ -2,49 +2,49 @@
 
 为了满足表单更自由丰富的样式设置，Dmartech提供了自定义表单功能。即将在Dmartech创建的表单，下载表单HTML代码，进行二次加工，添加相关样式代码，再将文件上传回Dmartech收集数据。
 
-![](../../.gitbook/assets/image%20%28595%29.png)
+![](../../../.gitbook/assets/image%20%28595%29.png)
 
 ### **自定义表单使用流程**
 
 DMARTECH提供API进行获取验证码、手机验证码，表单提交等功能。界面渲染可以交由任何 懂html的前端开发人员进行。 开发完毕后，将文件打包后上传至DMARTECH平台即可。 1.DMARTECH平台编辑表单后，导出HTML文件到本地。
 
-![](../../.gitbook/assets/image%20%28588%29.png)
+![](../../../.gitbook/assets/image%20%28588%29.png)
 
 2.本地新建一个空文件夹把导出的HTML文件放置到此处（注意不要嵌套多层文件夹）；如需更改样式可以直接更改HTML文件， 亦可新建一个css文件引入（如果仅仅是修改样式， 请移步至表单编辑处， 主题功能）， 如需添加图片， 注意文件大小（最好单个图片不要大于1M）与格式（可用格式在新建自定义表单页有标注），如需使用字体包，不要引入外部链接，把字体包一同放置在当前文件夹下，当前文件内引入， 不要更改表单内已配置的字段，会影响数据统计的准确性。（如想另加、修改字段，请重新新建、编辑表单） ， 注意：所有文件名称不建议包含中文字符
 
 保留html原文件中的所有input、radio等的name属性（十分重要，提交表单时name属性 作为数据传输的参数与DMARTECH后台一一对应，所以一旦改动，提交后台无法匹配）；截图如下：
 
-![](../../.gitbook/assets/image%20%28592%29.png)
+![](../../../.gitbook/assets/image%20%28592%29.png)
 
 3.保留html中提交的地址：一般是gate.dmartech.cn/xxxxxx的。截图如下：
 
-![](../../.gitbook/assets/image%20%28582%29.png)
+![](../../../.gitbook/assets/image%20%28582%29.png)
 
 获取短信验证码方法：
 
-![](../../.gitbook/assets/image%20%28586%29.png)
+![](../../../.gitbook/assets/image%20%28586%29.png)
 
 4.表单提交功能：
 
  表单提交功能代码截图：
 
-![](../../.gitbook/assets/image%20%28593%29.png)
+![](../../../.gitbook/assets/image%20%28593%29.png)
 
 截图中是beta环境下是gate-beta.dmartech.cn的域名，如果用于生产环境，则需要改为 gate.dmartech.cn
 
 5.修改完成后把文件夹打包成zip（当前仅支持zip格式）格式压缩包。在表单列表页点击操作栏处点击自定义表单按钮进入新建自定义表单页；
 
-![](../../.gitbook/assets/image%20%28591%29.png)
+![](../../../.gitbook/assets/image%20%28591%29.png)
 
 6.进入新建自定义表单页，点击新增自定义表单按钮， 按要求填写名称、上传zip包文件
 
-![](../../.gitbook/assets/image%20%28584%29.png)
+![](../../../.gitbook/assets/image%20%28584%29.png)
 
 新建成功后会生成一条列表数据， 点击列表操作项查看按钮，查看生成的自定义表单链接（注意：原表单链接不跳转自定义表单）等信息。
 
-![](../../.gitbook/assets/image%20%28594%29.png)
+![](../../../.gitbook/assets/image%20%28594%29.png)
 
-![](../../.gitbook/assets/image%20%28579%29.png)
+![](../../../.gitbook/assets/image%20%28579%29.png)
 
 ### 常见问题
 
@@ -56,9 +56,9 @@ DMARTECH提供API进行获取验证码、手机验证码，表单提交等功能
 
  b\) 新建微信二维码时，已经设置了回复表单，但是为何不能点击？ 选择表单时，需要在上面选择完毕表单后，点击左下角的“插入表单链接”按钮。
 
-![](../../.gitbook/assets/image%20%28578%29.png)
+![](../../../.gitbook/assets/image%20%28578%29.png)
 
 c\) 下发模板消息后为什么没有和收集的数据合并？
 
-![](../../.gitbook/assets/image%20%28580%29.png)
+![](../../../.gitbook/assets/image%20%28580%29.png)
 

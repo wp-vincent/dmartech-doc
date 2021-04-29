@@ -24,7 +24,7 @@ Response：
 
 请求示例：
 
-![](../../.gitbook/assets/image%20%28590%29.png)
+![](../../../.gitbook/assets/image%20%28590%29.png)
 
 返回码说明：
 
@@ -52,13 +52,13 @@ Response：
 
 Success200
 
-![](../../.gitbook/assets/image%20%28581%29.png)
+![](../../../.gitbook/assets/image%20%28581%29.png)
 
 请求示例：
 
-![](../../.gitbook/assets/image%20%28585%29.png)
+![](../../../.gitbook/assets/image%20%28585%29.png)
 
-![](../../.gitbook/assets/image%20%28587%29.png)
+![](../../../.gitbook/assets/image%20%28587%29.png)
 
 备注: 
 
