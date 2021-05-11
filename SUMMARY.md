@@ -71,7 +71,7 @@
   * [接入指南](api-kai-fang-ping-tai/kai-shi-kai-fa/jie-ru-zhi-nan.md)
   * [接口签名生成说明](api-kai-fang-ping-tai/kai-shi-kai-fa/sheng-cheng-accesssign.md)
   * [通用参数说明](api-kai-fang-ping-tai/kai-shi-kai-fa/tong-yong-can-shu-shuo-ming.md)
-* [Api接口文档](api-kai-fang-ping-tai/api-jie-kou-wen-dang-1/README.md)
+* [接口文档](api-kai-fang-ping-tai/api-jie-kou-wen-dang-1/README.md)
   * [表单管理](api-kai-fang-ping-tai/api-jie-kou-wen-dang-1/biao-dan-guan-li/README.md)
     * [表单分组列表](api-kai-fang-ping-tai/api-jie-kou-wen-dang-1/biao-dan-guan-li/biao-dan-fen-zu-lie-biao.md)
     * [表单分页列表](api-kai-fang-ping-tai/api-jie-kou-wen-dang-1/biao-dan-guan-li/biao-dan-fen-ye-lie-biao.md)
