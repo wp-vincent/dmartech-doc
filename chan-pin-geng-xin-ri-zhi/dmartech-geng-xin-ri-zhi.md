@@ -4,7 +4,7 @@
 
 ### Added
 
-* 【企业设置】启用API开放平台，详情见帮助文档
+* 【企业设置】启用API开放平台，详情见[帮助文档](https://app.gitbook.com/@dmartech/s/doc/~/drafts/-M_O3HirAVw_tEcQ6ceT/api-kai-fang-ping-tai/kai-shi-kai-fa/jie-ru-zhi-nan)
 * 【微信管理】新增粉丝标签同步 
 * 【微信管理】新增粉丝属性同步
 * 【素材管理】邮件模版库增加搜索 
