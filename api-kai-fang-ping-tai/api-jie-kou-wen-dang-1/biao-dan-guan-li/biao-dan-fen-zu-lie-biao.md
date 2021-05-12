@@ -11,6 +11,16 @@
 
 {% api-method-spec %}
 {% api-method-request %}
+{% api-method-headers %}
+{% api-method-parameter name="access-sign" type="string" required=true %}
+访问签名，具体生成办法请看这里
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="access-key" type="string" required=true %}
+访问凭证 
+{% endapi-method-parameter %}
+{% endapi-method-headers %}
+
 {% api-method-query-parameters %}
 {% api-method-parameter name="sortField" type="string" required=false %}
  排序字段 createDate:创建时间,updateDate:更新时间,name:分组名称
