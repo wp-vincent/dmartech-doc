@@ -14,7 +14,7 @@
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="groupSn" type="string" required=true %}
+{% api-method-parameter name="groupSn" type="string" required=false %}
 分组sn
 {% endapi-method-parameter %}
 
