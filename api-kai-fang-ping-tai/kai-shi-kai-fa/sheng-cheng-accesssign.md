@@ -47,7 +47,15 @@ java代码示例
     }
 ```
 
-**java SDK**
+**Java SDK-demo**
 
 {% file src="../../.gitbook/assets/openapisdk.zip" %}
+
+\*\*\*\*
+
+**JAVA测试工具**
+
+**仅供测试使用**，正式使用请参照上述代码生成方法。
+
+{% file src="../../.gitbook/assets/openaccesssign.jar.zip" %}
 
