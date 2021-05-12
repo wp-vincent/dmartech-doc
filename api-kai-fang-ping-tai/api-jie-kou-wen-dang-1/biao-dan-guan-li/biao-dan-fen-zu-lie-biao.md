@@ -6,7 +6,7 @@
 {% endapi-method-summary %}
 
 {% api-method-description %}
- 访问签名生成办法：https://doc.dmartech.cn/api-kai-fang-ping-tai/kai-shi-kai-fa/sheng-cheng-accesssign
+
 {% endapi-method-description %}
 
 {% api-method-spec %}
