@@ -55,7 +55,9 @@ java代码示例
 
 **JAVA测试工具**
 
-**仅供测试使用**，正式使用请参照上述代码生成方法。
+**需安装Java环境（安装办法请访问：**[**https://java.com/**](https://java.com/)**），仅供测试使用**，正式使用请参照上述代码生成方法。
+
+
 
 {% file src="../../.gitbook/assets/openaccesssign.jar.zip" %}
 
