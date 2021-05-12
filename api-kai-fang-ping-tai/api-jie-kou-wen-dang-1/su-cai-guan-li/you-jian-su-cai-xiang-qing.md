@@ -2,7 +2,7 @@
 
 
 
-{% api-method method="get" host="https://api.dmartech.cn" path="/open-api/v1/material/emailMaterialDetails" %}
+{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/material/emailMaterialDetails" %}
 {% api-method-summary %}
  邮件素材详情
 {% endapi-method-summary %}

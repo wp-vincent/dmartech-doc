@@ -2,7 +2,7 @@
 
 
 
-{% api-method method="get" host="https://api.dmartech.cn" path="/open-api/v1/contact/contactFieldDetails" %}
+{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/contactFieldDetails" %}
 {% api-method-summary %}
 联系人字段详情
 {% endapi-method-summary %}

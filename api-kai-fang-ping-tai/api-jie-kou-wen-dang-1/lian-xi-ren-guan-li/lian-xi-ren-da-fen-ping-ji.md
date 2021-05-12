@@ -4,7 +4,7 @@
 
 ​
 
-{% api-method method="get" host="https://api.dmartech.cn" path="/open-api/v1/contact/contactGradeScoreList" %}
+{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/contactGradeScoreList" %}
 {% api-method-summary %}
  联系人打分评级
 {% endapi-method-summary %}

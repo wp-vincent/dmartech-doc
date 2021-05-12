@@ -2,7 +2,7 @@
 
 
 
-{% api-method method="get" host="https://api.dmartech.cn" path="/open-api/v1/contact/contactUnsubscribeStatus" %}
+{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/contactUnsubscribeStatus" %}
 {% api-method-summary %}
 联系人订阅状态
 {% endapi-method-summary %}

@@ -2,7 +2,7 @@
 
 
 
-{% api-method method="get" host="https://api.dmartech.cn" path="/open-api/v1/contact/contactByLabelPageList" %}
+{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/contactByLabelPageList" %}
 {% api-method-summary %}
  标签下联系人列表
 {% endapi-method-summary %}

@@ -2,7 +2,7 @@
 
 
 
-{% api-method method="get" host="https://api.dmartech.cn" path="/open-api/v1/material/groupList" %}
+{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/material/groupList" %}
 {% api-method-summary %}
  素材分组列表
 {% endapi-method-summary %}
