@@ -1,6 +1,6 @@
 ---
 description: >-
-  English version please visit:
+  English version please visit: 
   https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log
 ---
 
