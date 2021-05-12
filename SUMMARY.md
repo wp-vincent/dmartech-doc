@@ -22,3 +22,7 @@
 * [Appendix 3 Filter Criteria Description](untitled.md)
 * [Appendix 4 Quickly Understand the Marketing Journey](appendix-4-quickly-understand-the-marketing-journey.md)
 
+## Product update log
+
+* [Product update log](product-update-log/product-update-log.md)
+
