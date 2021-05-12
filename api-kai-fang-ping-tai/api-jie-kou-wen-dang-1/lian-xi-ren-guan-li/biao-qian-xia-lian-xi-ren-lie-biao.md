@@ -14,7 +14,7 @@
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="sn" type="string" required=false %}
+{% api-method-parameter name="sn" type="string" required=true %}
 标签sn \(联系人标签列表接口提供\)
 {% endapi-method-parameter %}
 

@@ -11,12 +11,22 @@
 
 {% api-method-spec %}
 {% api-method-request %}
+{% api-method-headers %}
+{% api-method-parameter name="access-key" type="string" required=true %}
+ 访问凭证
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="access-sign" type="string" required=true %}
+ 访问签名
+{% endapi-method-parameter %}
+{% endapi-method-headers %}
+
 {% api-method-query-parameters %}
-{% api-method-parameter name="pageNo" type="string" required=false %}
+{% api-method-parameter name="pageNo" type="string" required=true %}
  页码
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="pageSize" type="string" required=false %}
+{% api-method-parameter name="pageSize" type="string" required=true %}
  分页数量
 {% endapi-method-parameter %}
 
