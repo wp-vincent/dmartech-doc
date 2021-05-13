@@ -47,7 +47,7 @@
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="formQuestionSn" type="string" required=false %}
- 表单问题sn
+ 表单问题sn ，目前支持字符串fieldType为0的表单问题
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
 {% endapi-method-request %}
