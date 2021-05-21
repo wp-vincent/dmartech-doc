@@ -42,6 +42,7 @@ Cake successfully retrieved.
 {
   "code": 0,
   "data": {
+    "id":"string"
     "name": "string",
     "sn": "string"
   },
@@ -70,6 +71,7 @@ Could not find a cake matching this query.
 | :--- | :--- | :--- |
 | sn | string | 标签sn |
 | name | string | 标签名称 |
+| id | string | 标签id |
 
 
 
