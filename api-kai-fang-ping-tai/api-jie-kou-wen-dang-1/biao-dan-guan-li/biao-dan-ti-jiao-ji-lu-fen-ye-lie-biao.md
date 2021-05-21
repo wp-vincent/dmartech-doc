@@ -221,7 +221,7 @@ Could not find a cake matching this query.
 }
 ```
 
-* 属于 filterType = 8 
+* 不属于 filterType = 8 
 
 ```text
 {
