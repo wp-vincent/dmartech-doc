@@ -61,7 +61,7 @@ Cake successfully retrieved.
     "resultList": [
       {
         "contactCount": 0,
-        "id":"string"
+        "id":"number"
         "isConceal": 0,
         "labelName": "string",
         "sn": "string",
@@ -132,7 +132,7 @@ Could not find a cake matching this query.
     </tr>
     <tr>
       <td style="text-align:left">id</td>
-      <td style="text-align:left">string</td>
+      <td style="text-align:left">number</td>
       <td style="text-align:left">&#x6807;&#x7B7E;id</td>
     </tr>
   </tbody>
