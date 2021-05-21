@@ -22,7 +22,7 @@
 {% endapi-method-headers %}
 
 {% api-method-body-parameters %}
-{% api-method-parameter name="formSn" type="string" required=false %}
+{% api-method-parameter name="formSn" type="string" required=true %}
  表单sn
 {% endapi-method-parameter %}
 
