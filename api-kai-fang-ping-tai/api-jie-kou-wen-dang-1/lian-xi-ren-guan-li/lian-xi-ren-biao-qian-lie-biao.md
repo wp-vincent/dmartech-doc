@@ -16,14 +16,6 @@
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="value" type="string" required=false %}
-查询值
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="name" type="string" required=false %}
-查询主键子段名
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="customerId" type="string" required=true %}
 联系人customerId（联系人分页列表接口提供） 
 {% endapi-method-parameter %}
