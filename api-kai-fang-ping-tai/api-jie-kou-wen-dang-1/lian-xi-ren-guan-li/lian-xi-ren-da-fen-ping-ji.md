@@ -16,6 +16,14 @@
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
+{% api-method-parameter name="name" type="string" required=false %}
+查询主键子段名
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="value" type="string" required=false %}
+查询值
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="customerId" type="string" required=true %}
 联系人customerId（联系人分页列表接口提供） 
 {% endapi-method-parameter %}
@@ -73,6 +81,10 @@
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+### 注意事项
+
+name  value为一组查询条件，customerI为一组查询条件，两者不能同时存在。
 
 ### 返回参数说明 <a id="fan-hui-can-shu-shuo-ming"></a>
 

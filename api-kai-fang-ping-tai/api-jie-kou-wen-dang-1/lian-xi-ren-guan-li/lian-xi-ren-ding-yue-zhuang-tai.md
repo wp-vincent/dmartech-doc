@@ -14,6 +14,14 @@
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
+{% api-method-parameter name="name" type="string" required=false %}
+查询主键子段名
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="value" type="string" required=false %}
+查询值
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="customerId" type="string" required=true %}
 联系人customerId（联系人分页列表接口提供） 
 {% endapi-method-parameter %}
@@ -61,38 +69,8 @@
     "message": "Forbidden",
     "traceNumber": "dcfd0c46b9e64d5a8a20b852388f6310",
     "data": null
-}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/contactGradeScoreList" %}
-{% api-method-summary %}
-
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="name" type="string" required=false %}
-查询主键子段名
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
+}注意事项
+name  value为一组查询条件，customerI为一组查询条件，两者不能同时存在。
 
 ```
 {% endapi-method-response-example %}
@@ -100,135 +78,9 @@
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/contactGradeScoreList" %}
-{% api-method-summary %}
+### 注意事项
 
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="name" type="string" required=false %}
-查询主键子段名
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/contactGradeScoreList" %}
-{% api-method-summary %}
-
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="value" type="string" required=false %}
-查询值
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/contactGradeScoreList" %}
-{% api-method-summary %}
-
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="value" type="string" required=false %}
-查询值
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-{% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/contactGradeScoreList" %}
-{% api-method-summary %}
-
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="value" type="string" required=false %}
-查询值
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-
+name  value为一组查询条件，customerI为一组查询条件，两者不能同时存在。
 
 ### 返回参数说明 <a id="fan-hui-can-shu-shuo-ming"></a>
 
