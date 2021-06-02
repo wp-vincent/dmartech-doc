@@ -22,7 +22,7 @@
 查询值
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="customerId" type="string" required=true %}
+{% api-method-parameter name="customerId" type="string" required=false %}
 联系人customerId（联系人分页列表接口提供） 
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
