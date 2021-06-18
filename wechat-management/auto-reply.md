@@ -14,7 +14,7 @@ Automatic reply triggered when a user sends a message to the WeChat public accou
 
 Set keywords, trigger automatic reply when fan reply exactly matches or contains set keywords.
 
-![](../.gitbook/assets/image%20%2851%29.gif)
+![](../.gitbook/assets/image%20%2852%29.gif)
 
 Three use case scenarios for auto-reply
 
