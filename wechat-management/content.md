@@ -6,5 +6,5 @@ Click "WeChat management" -&gt; material management, you can enter the material 
 
 Synchronize DMARTECH WeChat material with WeChat public background. Select a time period in the upper right of the page and click "Synchronize WeChat material" to synchronize the WeChat background material to the local.
 
-![](../.gitbook/assets/image%20%2866%29.gif)
+![](../.gitbook/assets/image%20%2867%29.gif)
 
