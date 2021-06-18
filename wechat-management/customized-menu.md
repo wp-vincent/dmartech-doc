@@ -16,11 +16,11 @@ Click the menu, you can set the specific contents of the menu on the right. When
 
 4\) After editing the menu, click "Save and synchronize to WeChat" to update the menu of the official account. Sync from WeChat to local
 
-![](../.gitbook/assets/image%20%2849%29.gif)
+![](../.gitbook/assets/image%20%2850%29.gif)
 
 You can set different menu items based on label, gender, operating system, language, and region.
 
-![](../.gitbook/assets/image%20%2848%29.gif)
+![](../.gitbook/assets/image%20%2849%29.gif)
 
 ![](../.gitbook/assets/image%20%2842%29.gif)
 

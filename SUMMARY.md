@@ -12,6 +12,7 @@
   * [Auto reply](wechat-management/auto-reply.md)
   * [Customized menu](wechat-management/customized-menu.md)
   * [Message history](wechat-management/message-history-1.md)
+  * [Followers](wechat-management/followers.md)
 * [Contents Creation and Management — Mail/ SMS/ MMS](ke-hu-guan-li.md)
 * [Forms Creation and Management](forms-creation-and-management.md)
 * [Marketing Automation](marketing-automation/README.md)

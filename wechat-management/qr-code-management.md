@@ -10,13 +10,13 @@ A selection box is added to the navigation bar of all function pages of WeChat m
 
 WeChat QR code. Select "DMARTECH Smart Marketing Official Account" in the navigation bar at the top of the page. All the QR codes displayed in the form belong to this official account.
 
-![](../.gitbook/assets/image%20%2853%29.gif)
+![](../.gitbook/assets/image%20%2854%29.gif)
 
 ### **Operational guidelines**
 
 Enter the menu "WeChat Management" - "QR Code Management" in turn and enter the QR Code List page.
 
-![](../.gitbook/assets/image%20%2861%29.gif)
+![](../.gitbook/assets/image%20%2864%29.gif)
 
 ![](../.gitbook/assets/image%20%2845%29.gif)
 
@@ -36,7 +36,7 @@ _Note: "Fan Tags" is the tag system in WeChat ecosystem, a single fan tag can no
 
 Note: QR code reply form is one of the important ways for DmarTech to issue forms. Generally, users scan QR code and will automatically receive a form, fill in the form for membership registration or activity registration.
 
-![](../.gitbook/assets/image%20%2859%29.gif)
+![](../.gitbook/assets/image%20%2861%29.gif)
 
 In the DMARTECH system, the QR code reply form can be used to access the data in WeChat system \(OpenID\) and CRM \(Email, Mobile\). Specifically, when fans scan the QR code, the system will first identify the fan information \(OpenID\), and when fans fill in the key fields in the form \(i.e. primary key fields, usually Mobile or Email\), DmarTech will automatically associate and merge the relevant data after submission.
 
@@ -54,15 +54,15 @@ QR code list mainly shows three statistics:
 
 Check out the details to see more statistics and scan details. Stats the scanning status of all fans, new fans and old fans respectively. Click different statistics, and the following fan list will be displayed together. Click "Export Excel" to export the data in the current fan list.
 
-![](../.gitbook/assets/image%20%2856%29.gif)
+![](../.gitbook/assets/image%20%2858%29.gif)
 
 When you need to paste QR code in other places or use it for offline posters, you can download the QR code from the QR code page \(click "Download QR code" button\) to select the required size and download it.
 
-![](../.gitbook/assets/image%20%2851%29.gif)
+![](../.gitbook/assets/image%20%2852%29.gif)
 
 Support bulk download, in the QR code list page, select the QR code to download, "batch download QR code can be downloaded to a ZIP file containing multiple QR code pictures.
 
 Support bulk download scanning code record, select multiple QR codes at the same time, record all scanning records of multiple QR codes in a file, use the name of the QR code to distinguish the specific scanning code of each code.
 
-![](../.gitbook/assets/image%20%2860%29.gif)
+![](../.gitbook/assets/image%20%2862%29.gif)
 
