@@ -9,6 +9,7 @@
 * [Wechat management](wechat-management/README.md)
   * [QR code management](wechat-management/qr-code-management.md)
   * [Mass message](wechat-management/message-history.md)
+  * [Auto reply](wechat-management/auto-reply.md)
 * [Contents Creation and Management — Mail/ SMS/ MMS](ke-hu-guan-li.md)
 * [Forms Creation and Management](forms-creation-and-management.md)
 * [Marketing Automation](marketing-automation/README.md)

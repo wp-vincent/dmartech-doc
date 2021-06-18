@@ -49,13 +49,13 @@ Only sent to fans who have had any of the following interactions within 48 hours
 
 DMARTECH opens the function of actively sending template messages to fans, in order to better help customers maintain fans. But do not abuse this function, a large number of template messages will lead to fan complaints, your public account will be warned or closed. DMARTech assumes no responsibility and cannot promise or guarantee the arrival rate or complaint rate.
 
-![](../.gitbook/assets/image%20%2849%29.gif)
+![](../.gitbook/assets/image%20%2850%29.gif)
 
 ### Sent
 
 You can view the sending records of various kinds of messages and see the actual sending status.
 
-![](../.gitbook/assets/image%20%2851%29.gif)
+![](../.gitbook/assets/image%20%2852%29.gif)
 
 
 
