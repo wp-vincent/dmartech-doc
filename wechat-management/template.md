@@ -6,7 +6,7 @@ Click "WeChat Management" -&gt; Template Management successively to enter the in
 
 ![](../.gitbook/assets/image%20%2868%29.gif)
 
-The template message jump setting means that after receiving the template message, you can click the template message to jump to the page. Currently, it supports jump URL, jump applet \(only supports jump to the applet that has bound the public account\) and jump form
+The template message jump setting means that after receiving the template message, you can click the template message to jump to the page. Currently, it supports jump URL, jump applet \(only supports jump to the applet that has bound the public account\) and jump form.
 
 ![](../.gitbook/assets/image%20%2866%29.gif)
 
