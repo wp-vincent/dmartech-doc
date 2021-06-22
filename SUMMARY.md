@@ -6,6 +6,7 @@
   * [Dmartech能做什么？](dmartech-gai-shu/dmartech-neng-zuo-shen-me.md)
   * [Dmartech怎么做？](dmartech-gai-shu/dmartech-zen-me-zuo.md)
 * [快速入门](xin-shou-zhi-yin.md)
+* [视频教程](shi-pin-jiao-cheng.md)
 * [基本概念](ji-ben-gai-nian/README.md)
   * [Dmartech涉及的专业名词解释](ji-ben-gai-nian/ming-ci-jie-shi.md)
   * [旅程控件说明](ji-ben-gai-nian/kong-jian-shuo-ming.md)
