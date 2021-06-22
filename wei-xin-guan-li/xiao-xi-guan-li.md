@@ -6,7 +6,7 @@ description: 消息管理用于管理粉丝与微信公众号之间的消息发�
 
 ## 操作指南
 
-![IMAGE ALT TEXT HERE](https://i.loli.net/2021/06/22/Sq28vcAQ39HJkhm.png)
+[![IMAGE ALT TEXT HERE](https://i.loli.net/2021/06/22/Sq28vcAQ39HJkhm.png)](https://oss.dmartech.cn/help/%E6%B6%88%E6%81%AF%E7%AE%A1%E7%90%86%E5%8F%8A%E7%B2%89%E4%B8%9D%E7%AE%A1%E7%90%86.mp4)
 
 依次点击“微信管理”-&gt;消息管理，可进入页面可查看消息列表。
 
