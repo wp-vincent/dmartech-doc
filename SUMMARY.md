@@ -3,6 +3,7 @@
 * [Brief Description](README.md)
 * [Overview](dmartech-gai-shu.md)
 * [Sign in to Dmartech](xin-shou-zhi-yin.md)
+* [Homepage](homepage.md)
 * [Main Module Introduction](ji-ben-gai-nian.md)
 * [Contacts](shou-ye.md)
 * [Segmentation](wei-xin-guan-li.md)
