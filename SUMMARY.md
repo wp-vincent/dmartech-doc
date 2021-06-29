@@ -25,7 +25,6 @@
   * [联系人管理](ke-hu-guan-li/ke-hu-guan-li-1.md)
   * [联系人分群](ke-hu-guan-li/ke-hu-fen-qun.md)
   * [高级分群](ke-hu-guan-li/gao-ji-fen-qun.md)
-  * [Advanced segmentation](ke-hu-guan-li/advanced-segmentation.md)
 * [营销旅程](ying-xiao-lv-cheng/README.md)
   * [素材](ying-xiao-lv-cheng/su-cai.md)
   * [营销旅程](ying-xiao-lv-cheng/ying-xiao-lv-cheng-1.md)
