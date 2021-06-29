@@ -7,6 +7,7 @@
 * [Main Module Introduction](ji-ben-gai-nian.md)
 * [Contacts](shou-ye.md)
 * [Segmentation](wei-xin-guan-li.md)
+* [Advanced segmentation](advanced-segmentation.md)
 * [Wechat management](wechat-management/README.md)
   * [QR code management](wechat-management/qr-code-management.md)
   * [Mass message](wechat-management/message-history.md)
