@@ -4,7 +4,7 @@
 
 Click "WeChat Management" -&gt; Custom Menu successively to enter this function page.
 
-The custom menu consists of up to three level one menus, and each level one menu contains up to five level two menus. The first level menu has a maximum of 4 Chinese characters and the second level menu has a maximum of 7 Chinese characters. The extra parts will be marked with "... ". Instead.
+The custom menu consists of up to three level one menus, and each level one menu contains up to five level two menus.When there is only the main menu, the main menu can input 60 bytes; If a submenu is added under the main menu, 16 bytes can be input into the main menu and 60 bytes can be input into the submenu.
 
 Click the menu, you can set the specific contents of the menu on the right. When there is no secondary menu under the primary menu, the edit menu can be set as follows:
 

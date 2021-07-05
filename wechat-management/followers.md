@@ -14,6 +14,8 @@ Support for syncing fan attributes and syncing fan tags
 
 After users modify WeChat personal attribute information, WeChat terminal will not actively push the updated content to DMARTECH, so the synchronous fan attribute is used to actively synchronize WeChat attribute information; When synchronizing, the sending task can be used normally, and the WeChat personal attribute change may trigger the condition judgment that has been set, or may cause the sending content to be inaccurate.
 
+The synchronous fan tag function can be executed once every three natural days. If the task is not executed, it can be cancelled in the log.
+
 Synchronizing fan tags only synchronizes the content of fan list. If you delete or add tags on fans in the background of WeChat, you need to use the function of "Synchronizing fan attributes" to synchronize the label association relationship.
 
 ![](../.gitbook/assets/image%20%2865%29.gif)

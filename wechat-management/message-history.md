@@ -24,7 +24,7 @@ For the authenticated subscription number, the mass send interface can be succes
 
 **2.customer service news**
 
-Only sent to fans who have had any of the following interactions within 48 hours, meaning:
+Only sent to fans who have had any of the following interactions with in 48 hours, meaning:
 
 * User Sends Message
 * Click the custom menu \(the customer service interface will be triggered only by clicking the three menu types: push event, scan push event, scan push event and pop up the prompt box of "message receiving"\)
@@ -32,6 +32,8 @@ Only sent to fans who have had any of the following interactions within 48 hours
 * Scan QR code
 * Pay for success
 * The user rights
+
+WeChat has adjusted the new official account number since June 1, 2021. In the three scenarios of user clicking custom menu, paying attention to official account and scanning two-dimensional code, developers can call customer service message interface to send 3 customer service messages to users within 1 minutes after receiving the event notification. In the scenario of user sending message and payment success, the rules remain unchanged.
 
 ![](../.gitbook/assets/image%20%2846%29.gif)
 

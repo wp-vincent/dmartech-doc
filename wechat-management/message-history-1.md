@@ -12,7 +12,7 @@ Click "WeChat Management" -&gt; Message Management successively to enter the pag
 
 ![](../.gitbook/assets/image%20%2843%29.gif)
 
-4\)Click the avatar, you can enter the chat list with the fan and reply to the message. Here you can reply various types of message contents, including text, text, picture, video and audio, and you can also download the chat record with the user.
+4\)Click the avatar to enter the chat list with the fan and reply to messages. Here, you can reply to various types of message content, such as graphic message, text, picture, video, audio, external page / jump form, applet card or menu message. You can also download the chat record with the user.
 
-![](../.gitbook/assets/image%20%2856%29.gif)
+![](../.gitbook/assets/hui-fu-xiao-xi-eng.jpg)
 
