@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dmaretch帮助文档简介](README.md)
+* [Dmartech帮助文档简介](README.md)
 * [Dmartech概述](dmartech-gai-shu/README.md)
   * [Dmartech是什么？](dmartech-gai-shu/dmartech-shi-shen-me.md)
   * [Dmartech能做什么？](dmartech-gai-shu/dmartech-neng-zuo-shen-me.md)
