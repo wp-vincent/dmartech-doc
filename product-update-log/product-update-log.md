@@ -1,5 +1,29 @@
 # Product update log
 
+## 2.4.0-2021-09-08
+
+### Added
+
+* Dmartech added a new module 【Wecom】 
+* 【Wecom】Added Channel QR code
+* 【Wecom】Added Enterprise Broadcast 
+* 【Wecom】Added Message archriving 
+* 【Wecom APP】Added a sidebar to synchronize contact information and dynamics 
+* 【Wecom APP】Added the function of sending and completing application messages 
+* 【Marketing】Added new settings and controls of Wecom 
+* 【Enterprise Setting】Added Wecom configuration page and permission-related configuration 
+* 【Meta data】Added new events and attributes related to Wecom 
+* 【Contacts】Added a new Wecom message card
+* 【Segmentation】Added filtering conditions for Wecom related events
+
+### Changed
+
+* 【Contents】Updated billing tips for overseas SMS in SMS material 
+* 【Report】Solved the problem of soft bounce rate calculation in email comparison data 
+* 【Marketing】Added monitoring and retry mechanisms for common channels in real-time journeys 
+* 【Marketing】Optimized hints and mechanisms for simultaneous editing of journeys by multiple people 
+* 【Others】Resolved several known bugs and translation issues
+
 ## 2.3.8-2021-05-10
 
 ### Added
