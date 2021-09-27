@@ -84,7 +84,9 @@ Select the image, then set **Size, Position, Repeat and Alternate color** of the
 
 **Note**
 
-_1.Click to add a hyperlink for the text. You can insert an internet link or a plugin link such as subscribe, unsubscribe or weblink. The Title of the links can be used in the email report to view each link clicks. It is supported to upload a calendar attachment with ics suffix by clicking“browse server"_
+_1.Click to add a hyperlink for the text. You can insert an internet link or a plugin link such as subscribe, unsubscribe or weblink. Recently updated with 3 new plugin links, addtosafesenderlist \(add whitelist plugin\), mail\_a\_friend \(forward friend plugin\) and custom plugin. Among them, you can fill in the url address of the plugin as needed when choosing a custom plugin._
+
+_2.The Title of the links can be used in the email report to view each link clicks. It is supported to upload a calendar attachment with ics suffix by clicking“browse server"_
 
 ![](.gitbook/assets/image%20%28473%29.png)
 

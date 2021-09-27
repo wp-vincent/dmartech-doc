@@ -148,7 +148,11 @@ All journeys are subject to the approval process if Automation approval workflow
 
 * Applicant's perspective After creating the journey, click "Apply for apporval" at the top right corner to select an approver to submit for approval. The Status of the journey will turn to Pending after submission, which can be withdraw before being approved. 
 
+Dmartech no longer provides a direct opening portal, opening must be approved; _Note: trips handed over to the main account for approval also need to be approved and cannot be opened directly._
+
 You can check the approval status in the journey group named My Requests.
+
+The Start or Continue buttons will no longer be displayed for trips that are pending approval, or have a record of approval passed or approval denied.
 
 ![](../.gitbook/assets/image%20%28531%29.png)
 
@@ -160,7 +164,5 @@ An Approver is a user who has been given rights to approve or deny journey reque
 
  Click “Examination“ to process the approval in the Prepare for launch explorer. There are three optional actions for approval: Approve, Send back \(you can input the reason for denial\), Add an approver \(choose another approver\).
 
-_NOTE_ 
-
-_The journey will start directly and its status will be updated to Running once the request has been approved._
+~~_The journey will start directly and its status will be updated to Running once the request has been approved._~~
 
