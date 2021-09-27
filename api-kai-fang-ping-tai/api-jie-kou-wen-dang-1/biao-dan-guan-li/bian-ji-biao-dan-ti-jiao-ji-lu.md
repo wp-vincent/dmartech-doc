@@ -68,7 +68,7 @@ Could not find a cake matching this query.
 
   formSn:   通过/form/formPageList 获取
 
-![](blob:https://app.gitbook.com/f07fd4e5-4811-496f-ae33-0b689c77a7f4)
+![](../../../.gitbook/assets/tu-pian-1%20%283%29.png)
 
 \_id  :  通过/form/submitRecordPageList 获取
 
