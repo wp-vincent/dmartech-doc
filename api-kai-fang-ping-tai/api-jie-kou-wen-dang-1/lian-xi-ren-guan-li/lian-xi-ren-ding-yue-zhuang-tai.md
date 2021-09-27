@@ -1,4 +1,4 @@
-# 联系人订阅状态
+# 联系人订阅状态/contactUnsubscribeStatus
 
 
 

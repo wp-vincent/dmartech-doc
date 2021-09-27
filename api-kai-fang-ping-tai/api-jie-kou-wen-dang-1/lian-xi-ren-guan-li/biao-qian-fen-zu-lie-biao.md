@@ -1,4 +1,4 @@
-# 标签分组列表
+# 标签分组列表/labelGroupList
 
 {% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/labelGroupList" %}
 {% api-method-summary %}

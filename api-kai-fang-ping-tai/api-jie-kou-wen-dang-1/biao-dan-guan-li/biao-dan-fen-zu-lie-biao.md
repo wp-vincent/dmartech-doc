@@ -1,4 +1,4 @@
-# 表单分组列表
+# 表单分组列表/groupList
 
 {% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/form/groupList" %}
 {% api-method-summary %}

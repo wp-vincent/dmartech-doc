@@ -1,4 +1,4 @@
-# 表单提交记录分页列表
+# 获取表单提交记录/submitRecordPage
 
 {% api-method method="post" host="https://api.dmartech.cn/openapi" path="/open-api/v1/form/submitRecordPageList" %}
 {% api-method-summary %}

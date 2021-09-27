@@ -1,4 +1,4 @@
-# 标签分页列表
+# 标签分页列表/labelPageList
 
 {% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/labelPageList" %}
 {% api-method-summary %}

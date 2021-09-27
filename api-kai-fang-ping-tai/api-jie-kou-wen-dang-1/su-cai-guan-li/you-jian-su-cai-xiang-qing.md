@@ -1,4 +1,4 @@
-# 邮件素材详情
+# 邮件素材详情/emailMaterialDetails
 
 
 

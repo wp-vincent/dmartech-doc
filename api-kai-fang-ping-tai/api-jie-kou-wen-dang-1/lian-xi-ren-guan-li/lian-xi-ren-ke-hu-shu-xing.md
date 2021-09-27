@@ -1,4 +1,4 @@
-# 联系人客户属性
+# 联系人属性查询/contactCustomerDetails
 
 
 
