@@ -75,6 +75,10 @@
 ## Dmartech案例
 
 * [会议全流程自动化](dmartech-an-li/hui-yi-quan-liu-cheng-zi-dong-hua.md)
+* [B2B行业](dmartech-an-li/b2b-hang-ye/README.md)
+  * [新线索孵化场景](dmartech-an-li/b2b-hang-ye/xin-xian-suo-fu-hua-chang-jing.md)
+  * [多渠道数据打通场景](dmartech-an-li/b2b-hang-ye/untitled.md)
+  * [沉睡会员激活场景](dmartech-an-li/b2b-hang-ye/untitled-1.md)
 
 ## API开放平台
 
