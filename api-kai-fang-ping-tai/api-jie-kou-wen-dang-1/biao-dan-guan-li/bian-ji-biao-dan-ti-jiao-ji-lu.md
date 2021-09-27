@@ -72,15 +72,15 @@ Could not find a cake matching this query.
 
 \_id  :  通过/form/submitRecordPageList 获取
 
-![](blob:https://app.gitbook.com/7134f2dd-51ce-490a-839d-2297d616a9e2)
+![](../../../.gitbook/assets/tu-pian-2%20%282%29.png)
 
 HTML名称 为要修改记录的 HTML名称 例：
 
-![](blob:https://app.gitbook.com/a9c981a3-c266-48c9-ae92-3dd48f67d84a)
+![](../../../.gitbook/assets/tu-pian-3%20%282%29.png)
 
 测试实例：
 
-![](blob:https://app.gitbook.com/339c5f4c-6a52-421f-b2ff-3d22c0a4973a)
+![](../../../.gitbook/assets/tu-pian-4%20%282%29.png)
 
-![](blob:https://app.gitbook.com/25e0e6eb-4b96-45a4-8128-99c7d330b31d)
+![](../../../.gitbook/assets/tu-pian-5%20%282%29.png)
 

@@ -54,7 +54,7 @@ Could not find a cake matching this query.
 
 请求实例：**（截图url为测试环境，实际以上方信息为准。）**
 
-![](blob:https://app.gitbook.com/461882a9-c424-4526-86fc-1fe90fead94a)
+![](../../../.gitbook/assets/tu-pian-11%20%282%29.png)
 
-![](blob:https://app.gitbook.com/3f8630f6-6e28-4213-948a-9ed54a40a8d2)
+![](../../../.gitbook/assets/tu-pian-22%20%282%29.png)
 

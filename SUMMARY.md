@@ -72,13 +72,13 @@
   * [企业设置](ge-ren-zhong-xin/qi-ye-she-zhi.md)
 * [Dmartech功能介绍](dmartech-gong-neng-jie-shao.md)
 
-## Dmartech案例
+## 数据导入API <a id="api-jie-kou-wen-dang"></a>
 
-* [会议全流程自动化](dmartech-an-li/hui-yi-quan-liu-cheng-zi-dong-hua.md)
-* [B2B行业](dmartech-an-li/b2b-hang-ye/README.md)
-  * [新线索孵化场景](dmartech-an-li/b2b-hang-ye/xin-xian-suo-fu-hua-chang-jing.md)
-  * [多渠道数据打通场景](dmartech-an-li/b2b-hang-ye/untitled.md)
-  * [沉睡会员激活场景](dmartech-an-li/b2b-hang-ye/untitled-1.md)
+* [导入用户](api-jie-kou-wen-dang/dao-ru-ke-hu.md)
+* [导入事件](api-jie-kou-wen-dang/dao-ru-shi-jian.md)
+* [批量导入用户](api-jie-kou-wen-dang/pi-liang-dao-ru-ke-hu.md)
+* [批量导入事件](api-jie-kou-wen-dang/pi-liang-dao-ru-shi-jian.md)
+* [删除用户](api-jie-kou-wen-dang/shan-chu-ke-hu.md)
 
 ## API开放平台
 
@@ -115,14 +115,6 @@
     * [编辑表单提交记录/editRecord](api-kai-fang-ping-tai/api-jie-kou-wen-dang-1/biao-dan-guan-li/bian-ji-biao-dan-ti-jiao-ji-lu.md)
     * [删除表单提交记录/deleteRecord](api-kai-fang-ping-tai/api-jie-kou-wen-dang-1/biao-dan-guan-li/shan-chu-biao-dan-ti-jiao-ji-lu-deleterecord.md)
 
-## 数据导入API <a id="api-jie-kou-wen-dang"></a>
-
-* [导入用户](api-jie-kou-wen-dang/dao-ru-ke-hu.md)
-* [导入事件](api-jie-kou-wen-dang/dao-ru-shi-jian.md)
-* [批量导入用户](api-jie-kou-wen-dang/pi-liang-dao-ru-ke-hu.md)
-* [批量导入事件](api-jie-kou-wen-dang/pi-liang-dao-ru-shi-jian.md)
-* [删除用户](api-jie-kou-wen-dang/shan-chu-ke-hu.md)
-
 ## SDK/JS-SDK
 
 * [JS-SDK（中文）](sdk-js-sdk/sdk-js-sdk.md)
@@ -134,6 +126,14 @@
 
 * [Dmartech更新日志](chan-pin-geng-xin-ri-zhi/dmartech-geng-xin-ri-zhi.md)
 * [SFTP远程服务器地址改变报错及解决方案](chan-pin-geng-xin-ri-zhi/sftp-yuan-cheng-fu-wu-qi-di-zhi-gai-bian-bao-cuo-ji-jie-jue-fang-an.md)
+
+## Dmartech案例
+
+* [会议全流程自动化](dmartech-an-li/hui-yi-quan-liu-cheng-zi-dong-hua.md)
+* [B2B行业](dmartech-an-li/b2b-hang-ye/README.md)
+  * [新线索孵化场景](dmartech-an-li/b2b-hang-ye/xin-xian-suo-fu-hua-chang-jing.md)
+  * [多渠道数据打通场景](dmartech-an-li/b2b-hang-ye/untitled.md)
+  * [沉睡会员激活场景](dmartech-an-li/b2b-hang-ye/untitled-1.md)
 
 ## 其他说明
 

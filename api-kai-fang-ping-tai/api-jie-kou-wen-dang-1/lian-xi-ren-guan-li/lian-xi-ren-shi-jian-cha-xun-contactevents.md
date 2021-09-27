@@ -72,7 +72,7 @@ Could not find a cake matching this query.
 
 customerId \* 联系人ID，可通过/contact/contactPageList 获取
 
-![](blob:https://app.gitbook.com/f33b8e21-a0c9-47f6-8a56-a1dccd81a06e)
+![](../../../.gitbook/assets/tu-pian-111.png)
 
-![](blob:https://app.gitbook.com/617f1f9a-0d62-4d85-beb1-c949eec70f47)
+![](../../../.gitbook/assets/tu-pian-222.png)
 
