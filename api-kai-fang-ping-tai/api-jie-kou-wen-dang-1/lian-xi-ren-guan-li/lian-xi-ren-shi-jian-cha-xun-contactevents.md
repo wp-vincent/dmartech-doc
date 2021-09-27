@@ -2,11 +2,11 @@
 
 {% api-method method="get" host="https://api.dmartech.cn/openapi" path="/open-api/v1/contact/contactEvents" %}
 {% api-method-summary %}
-Get Cakes
+联系人事件查询
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to get free cakes.
+
 {% endapi-method-description %}
 
 {% api-method-spec %}
