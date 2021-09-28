@@ -1,10 +1,8 @@
----
-description: >-
-  English version please visit: 
-  https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log
----
-
 # Dmartech更新日志
+
+[ ](%20https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log)English version please visit:
+
+[https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log](%20https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log)
 
 ## 2.4.1-2021-09-28
 
