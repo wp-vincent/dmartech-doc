@@ -51,7 +51,14 @@ Cake successfully retrieved.
 {% endapi-method-response-example-description %}
 
 ```
-{    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
+{
+    "code": 0,
+    "message": "Successful.",
+    "traceNumber": "82f18b74383e417b857112979ddd0ed1",
+    "data": {
+    
+    }
+}
 ```
 {% endapi-method-response-example %}
 
