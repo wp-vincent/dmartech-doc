@@ -1,5 +1,29 @@
 # Product update log
 
+## 2.4.1-2021-09-28
+
+### Added
+
+* 【Open Platform】Added 3 new interfaces \(contact events, edit form records; delete form records\)；
+* 【Marketing】Added new journey case teaching tutorial \(this issue is online B2B\)；
+* 【Material】Email editor adds 3 plugins \(from DMD\), supports custom plugins；
+
+### Changed
+
+* 【Marketing】Optimized journey approval process；
+* 【Marketing】Optimized random branch control with AB test space connection；
+* 【Marketing】Optimization of real time journeys caused by tagging judgments to reduce the efficiency of the problem；
+* 【WeChat Management】Optimized the efficiency of synchronizing fans；
+* 【Form】Optimized standard form send data rule settings；
+* 【Wecom】Improve the text description of the binding process；
+* 【Global】Optimized Dmartech login resource loading；
+* 【Global】Optimization of some English translations.
+
+### Fixed
+
+* 【WeChat Management】Solved the problem of failure of some function settings caused by synchronized material；
+* 【Marketing】 Solved the problem of template message determination under multiple publics.
+
 ## 2.4.0-2021-09-08
 
 ### Added
