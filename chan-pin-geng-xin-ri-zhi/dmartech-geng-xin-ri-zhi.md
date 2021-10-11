@@ -1,8 +1,8 @@
 # Dmartech更新日志
 
-[ ](%20https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log)English version please visit:
+[ ](https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log)English version please visit:
 
-[https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log](%20https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log)
+[https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log](https://doc.dmartech.cn/v/help-doc-in-english/product-update-log/product-update-log)
 
 ## 2.4.1-2021-09-28
 
@@ -56,7 +56,7 @@
 
 ### Added
 
-* 【企业设置】启用API开放平台，详情见[帮助文档](https://app.gitbook.com/@dmartech/s/doc/~/drafts/-M_O3HirAVw_tEcQ6ceT/api-kai-fang-ping-tai/kai-shi-kai-fa/jie-ru-zhi-nan)
+* 【企业设置】启用API开放平台，详情见[帮助文档](https://app.gitbook.com/@dmartech/s/doc/\~/drafts/-M_O3HirAVw_tEcQ6ceT/api-kai-fang-ping-tai/kai-shi-kai-fa/jie-ru-zhi-nan)
 * 【微信管理】新增粉丝标签同步 
 * 【微信管理】新增粉丝属性同步
 * 【素材管理】邮件模版库增加搜索 
@@ -140,7 +140,7 @@
 
 * 【微信管理】二维码回复外部页、标签名称，取消字符“.”的输入限制 
 * 【表单】表单跳转链接长度限制由原来的250放大到500 
-* 【营销旅程】实时旅程微信素材使用最新的media\_id 
+* 【营销旅程】实时旅程微信素材使用最新的media_id 
 * 【数据中心】优化联系人合并后事件挂靠的机制
 
 ## 2.3.3-2020-12-04
@@ -332,15 +332,15 @@
 * 【客户管理】新增展示订阅状态。客户详情页面展示当前客户全局、邮件和手机的订阅/退订状态。
 * 【字段权限】新增部分隐藏字段权限。字段权限设置隐藏可配置“全部隐藏”和“部分隐藏”两种方式，“全部隐藏”即在平台和导出的数据报告内无法查看到的被隐藏的字段，“部分隐藏”即在平台内和导出的数据报告内，可见被隐藏的字段，只能看到部分，剩余部分会被\*\*\*\*代替。
 * 【全局】新增登录次数显示。通过账号密码登录时，连续登录错误次数等于5次后，自动锁定30分钟，这30分钟内无法再次登录。
-* 【企业设置】新增两步验证。
+*   【企业设置】新增两步验证。
 
-                          当开启两步验证功能后，登录Dmartech时，需要进行两步验证：
+                            当开启两步验证功能后，登录Dmartech时，需要进行两步验证：
 
-                          第一步：账号密码验证成功；
+                            第一步：账号密码验证成功；
 
-                          第二步：通过手机验证码验证登录。
+                            第二步：通过手机验证码验证登录。
 
-                          注意：当账号开启单点登录的就不可开启两步验证。
+                            注意：当账号开启单点登录的就不可开启两步验证。
 
 ### Fixed
 
@@ -379,16 +379,16 @@
 
 ### Fixed
 
-*  【素材】邮件上传zip包时失败原因被遮挡。
+*  【素材】邮件上传zip包时失败原因被遮挡。
 
 ### Changed
 
 * 【线上营销活动】新增邮件数据对比功能。可进行多个旅程内多封邮件发送数据对比
-*  【多层级管理】分组优化为多层级管理。分群、素材、营销旅程、二维码、标签管理和邮件头尾模块涉及到组的全部优化为多层级管理。
+*  【多层级管理】分组优化为多层级管理。分群、素材、营销旅程、二维码、标签管理和邮件头尾模块涉及到组的全部优化为多层级管理。
 
 ## 2.2.1-2019-09-30
 
-### Added
+### &#xD;Added
 
 * 【营销旅程】新增时区选择。选中时区后，此旅程涉及到的时间都是按照选中的时区来判断的。
 * 【线上营销活动】新增时区查询。可查看旅程在不同时区内不同时间段事件分布时段的数据详情。
@@ -540,7 +540,8 @@
 
 * 【表单】修改创建表单时提示文字，增加数据推送HTTP POST URL
 * 【数据中心】AP接入数据请求示例中，“username”改为“name”
-* 
+*
+
 ## 2.1.2 - 2019-03-22
 
 ### Added
@@ -584,7 +585,7 @@
 * 【素材】仅屏蔽以http与https协议开头的二级域名地址，其他仅有二级域名地址不被屏蔽。
 * 【线上营销活动】图片链接设置title后，旅程报告中统计链接点击按照title显示。
 * 【线上营销活动】邮件报告导出逻辑优化。
-* 【微信管理】微信获取Access\_token的改版。
+* 【微信管理】微信获取Access_token的改版。
 * 【帮助中心】更换帮助中心链接。
 
 ## 2.1.1 - 2018-12-18
@@ -594,7 +595,7 @@
 * 【素材】邮件拖拽编辑器增加订阅插件。
 * 【全局】子账号模块。
 * 【标签】新增显示标签ID功能。
-* 【数据中心】新增批量上传客户\(user\_batch\)及事件接口\(event\_batch\)。
+* 【数据中心】新增批量上传客户(user_batch)及事件接口(event_batch)。
 
 ### Fixed
 
@@ -641,10 +642,10 @@
 
 ### Changed
 
-* 【全局】点击右上角用户名显示短信余量； [查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-11-12%2016.23.27.png?version=1&modificationDate=1542075713000&api=v2)
-* 【数据中心】新增字段时，可以填入默认缺省值； [查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-11-12%2016.23.51.png?version=1&modificationDate=1542075736000&api=v2)
+* 【全局】点击右上角用户名显示短信余量； [查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-11-12%2016.23.27.png?version=1\&modificationDate=1542075713000\&api=v2)
+* 【数据中心】新增字段时，可以填入默认缺省值； [查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-11-12%2016.23.51.png?version=1\&modificationDate=1542075736000\&api=v2)
 * 【微信管理】图文消息列表展示优化； 
-* 【客户管理】客户分群优化筛选项，现在以分组形式呈现； [查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-11-13%2010.22.44.png?version=1&modificationDate=1542075798000&api=v2)
+* 【客户管理】客户分群优化筛选项，现在以分组形式呈现； [查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-11-13%2010.22.44.png?version=1\&modificationDate=1542075798000\&api=v2)
 * 【营销旅程】客服消息增加提示； 
 * 【数据中心】预置的事件支持新增事件属性； 
 * 【微信管理】二维码创建时可以新建分组。如果在某个分组下创建二维码，则默认该二维码归属该分组。 
@@ -692,10 +693,10 @@
 
 ### Changed
 
-* 【数据中心】数据源图表优化，更直观区别已创建数据源。 [查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-10-26%2010.17.32.png?version=1&modificationDate=1540520377000&api=v2)
+* 【数据中心】数据源图表优化，更直观区别已创建数据源。 [查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-10-26%2010.17.32.png?version=1\&modificationDate=1540520377000\&api=v2)
 * 【营销旅程】提示文字优化。
 * 【标签管理】默认指向【默认分组】。
-* 【营销旅程】优化旅程概览的提示框距离，减少误操作。[查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-10-26%2010.19.32.png?version=1&modificationDate=1540520479000&api=v2)
+* 【营销旅程】优化旅程概览的提示框距离，减少误操作。[查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-10-26%2010.19.32.png?version=1\&modificationDate=1540520479000\&api=v2)
 * 【营销旅程】旅程报告文字优化；
 
 ## 2.0 - 2018-10-12
@@ -753,8 +754,8 @@
 
 ### Change
 
-* 【微信管理】群发模板消息添加了相关的注释；[查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-08%2010.20.33.png?version=1&modificationDate=1533695456000&api=v2)
-* 【微信管理】群发模板消息时，选择群发对象后会根据具体人数预计发送时间；[查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-08%2010.20.39.png?version=1&modificationDate=1533695533000&api=v2)
+* 【微信管理】群发模板消息添加了相关的注释；[查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-08%2010.20.33.png?version=1\&modificationDate=1533695456000\&api=v2)
+* 【微信管理】群发模板消息时，选择群发对象后会根据具体人数预计发送时间；[查看](http://wiki.webpower-inc.com:8090/download/attachments/18939915/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-08%2010.20.39.png?version=1\&modificationDate=1533695533000\&api=v2)
 * 【微信管理】群发模板消息发送成功改为及时回调。
 
 ## 1.3 - 2018-08-28
@@ -794,7 +795,7 @@
 * 【客户管理】分群列表下载CSV文件，分组标签有多个时用分号隔开；
 * 【多渠道营销】优化旅程删除按钮，直接在旅程详情界面显示；
 
-## 1.0 - 2018-08-28
+## 1.0 - 2018-06-28
 
 ### Added
 
@@ -810,7 +811,6 @@
 * 【客户管理】客户分群左侧分群中总人数改变为黑色，避免误导用户认为可点击查看详情；
 * 【客户管理】分群列表中，原来的删除按钮的名称变更为“移除分组标签”；
 * 【客户管理】分群条件中”所属分组“名称变更为”分组标签“；
-* 【客户管理】优化：客户管理&gt;用户分群&gt;分群名称，此处分群名称显示为当前分群的具体实际名称
+* 【客户管理】优化：客户管理>用户分群>分群名称，此处分群名称显示为当前分群的具体实际名称
 * 【微信管理】新建图文消息时，作者字数由8个字扩大为16字；
 * 【多渠道营销】新建邮件素材—拖拽式编辑器中，增加了“保存”按钮；
-
