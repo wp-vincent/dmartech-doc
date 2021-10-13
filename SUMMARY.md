@@ -5,7 +5,7 @@
   * [Dmartech是什么？](dmartech-gai-shu/dmartech-shi-shen-me.md)
   * [Dmartech能做什么？](dmartech-gai-shu/dmartech-neng-zuo-shen-me.md)
   * [Dmartech怎么做？](dmartech-gai-shu/dmartech-zen-me-zuo.md)
-* [快速入门](xin-shou-zhi-yin.md)
+* [新手指引](xin-shou-zhi-yin.md)
 * [视频教程](shi-pin-jiao-cheng.md)
 * [基本概念](ji-ben-gai-nian/README.md)
   * [Dmartech涉及的专业名词解释](ji-ben-gai-nian/ming-ci-jie-shi.md)
@@ -72,7 +72,7 @@
   * [企业设置](ge-ren-zhong-xin/qi-ye-she-zhi.md)
 * [Dmartech功能介绍](dmartech-gong-neng-jie-shao.md)
 
-## 数据导入API <a id="api-jie-kou-wen-dang"></a>
+## 数据导入API <a href="api-jie-kou-wen-dang" id="api-jie-kou-wen-dang"></a>
 
 * [导入用户](api-jie-kou-wen-dang/dao-ru-ke-hu.md)
 * [导入事件](api-jie-kou-wen-dang/dao-ru-shi-jian.md)
@@ -147,4 +147,3 @@
 * [客户管理](faq/ke-hu-guan-li.md)
 * [营销旅程](faq/ying-xiao-lv-cheng.md)
 * [表单](faq/form.md)
-
