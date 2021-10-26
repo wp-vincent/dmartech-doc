@@ -126,6 +126,7 @@
 
 * [Dmartech更新日志](chan-pin-geng-xin-ri-zhi/dmartech-geng-xin-ri-zhi.md)
 * [SFTP远程服务器地址改变报错及解决方案](chan-pin-geng-xin-ri-zhi/sftp-yuan-cheng-fu-wu-qi-di-zhi-gai-bian-bao-cuo-ji-jie-jue-fang-an.md)
+* [微信接口更新日志](chan-pin-geng-xin-ri-zhi/wei-xin-jie-kou-geng-xin-ri-zhi.md)
 
 ## Dmartech案例
 
