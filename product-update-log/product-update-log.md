@@ -4,9 +4,9 @@
 
 ### Added
 
-* 【Open Platform】Added 3 new interfaces \(contact events, edit form records; delete form records\)；
-* 【Marketing】Added new journey case teaching tutorial \(this issue is online B2B\)；
-* 【Material】Email editor adds 3 plugins \(from DMD\), supports custom plugins；
+* 【Open Platform】Added 3 new interfaces (contact events, edit form records; delete form records)；
+* 【Marketing】Added new journey case teaching tutorial (this issue is online B2B)；
+* 【Material】Email editor adds 3 plugins (from DMD), supports custom plugins；
 
 ### Changed
 
@@ -28,24 +28,24 @@
 
 ### Added
 
-* Dmartech added a new module 【Wecom】 
+* Dmartech added a new module 【Wecom】&#x20;
 * 【Wecom】Added Channel QR code
-* 【Wecom】Added Enterprise Broadcast 
-* 【Wecom】Added Message archriving 
-* 【Wecom APP】Added a sidebar to synchronize contact information and dynamics 
-* 【Wecom APP】Added the function of sending and completing application messages 
-* 【Marketing】Added new settings and controls of Wecom 
-* 【Enterprise Setting】Added Wecom configuration page and permission-related configuration 
-* 【Meta data】Added new events and attributes related to Wecom 
+* 【Wecom】Added Enterprise Broadcast&#x20;
+* 【Wecom】Added Message archriving&#x20;
+* 【Wecom APP】Added a sidebar to synchronize contact information and dynamics&#x20;
+* 【Wecom APP】Added the function of sending and completing application messages&#x20;
+* 【Marketing】Added new settings and controls of Wecom&#x20;
+* 【Enterprise Setting】Added Wecom configuration page and permission-related configuration&#x20;
+* 【Meta data】Added new events and attributes related to Wecom&#x20;
 * 【Contacts】Added a new Wecom message card
 * 【Segmentation】Added filtering conditions for Wecom related events
 
 ### Changed
 
-* 【Contents】Updated billing tips for overseas SMS in SMS material 
-* 【Report】Solved the problem of soft bounce rate calculation in email comparison data 
-* 【Marketing】Added monitoring and retry mechanisms for common channels in real-time journeys 
-* 【Marketing】Optimized hints and mechanisms for simultaneous editing of journeys by multiple people 
+* 【Contents】Updated billing tips for overseas SMS in SMS material&#x20;
+* 【Report】Solved the problem of soft bounce rate calculation in email comparison data&#x20;
+* 【Marketing】Added monitoring and retry mechanisms for common channels in real-time journeys&#x20;
+* 【Marketing】Optimized hints and mechanisms for simultaneous editing of journeys by multiple people&#x20;
 * 【Others】Resolved several known bugs and translation issues
 
 ## 2.3.8-2021-05-10
@@ -86,13 +86,14 @@
 
 ### Changed
 
-* 【WeChat Management\]】Optimize the interaction of WeChat public component insertion form, support inserting multiple forms
+* 【WeChat Management]】Optimize the interaction of WeChat public component insertion form, support inserting multiple forms
 * 【WeChat Management】 Optimized keyword auto-reply interaction
 * 【WeChat Management】 Common component of the chat interface application of the Message Management Office
 * 【WeChat Management】Optimize QR code scanning statistics
 * 【Form】Optimize the size of the edit data pop-up window
 * 【Form】Add search box and support empty value when editing data
-* 【Marketing Journey】Send WeChat template messages to use the latest content and no longer use copies 
+* 【Marketing Journey】Send WeChat template messages to use the latest content and no longer use copies\
+
 
 ## 2.3.6-2021-03-08
 
@@ -117,5 +118,4 @@
 * 【Contact Management】 Optimize the synchronization process between fans and contacts after the official account is authorized
 * 【Material Management】Name the image folder exported by unified mail html
 * 【WeChat Management】Adjust the synchronization and upload of WeChat video materials
-* 【Marketing Journey】 Copy processing is no longer used when sending WeChat graphic messages 
-
+* 【Marketing Journey】 Copy processing is no longer used when sending WeChat graphic messages\
