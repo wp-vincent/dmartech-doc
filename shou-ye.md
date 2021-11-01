@@ -2,17 +2,17 @@
 
 ## Contacts Management
 
-When using Dmartech, it is generally necessary to import all contacts data owned by the company firstly to Dmartech, and all marketing plans will be based on these contacts. 
+When using Dmartech, it is generally necessary to import all contacts data owned by the company firstly to Dmartech, and all marketing plans will be based on these contacts.&#x20;
 
-Choose **Contacts &gt; Contacts** from the main menu to view contacts overview and contacts list. The columns that need to be displayed in the list can be set by yourself. Click Custom **display columns**, select the columns to be displayed from the left side of the pop-up box and add them to the right , and just remove the columns that don’t need to be displayed on the right to the left. 
+Choose **Contacts > Contacts** from the main menu to view contacts overview and contacts list. The columns that need to be displayed in the list can be set by yourself. Click Custom **display columns**, select the columns to be displayed from the left side of the pop-up box and add them to the right , and just remove the columns that don’t need to be displayed on the right to the left.&#x20;
 
-Contacts are managed in four categories: 
+Contacts are managed in four categories:&#x20;
 
-1\) Real-name contact: a contact with a mobile phone number or email address 
+1\) Real-name contact: a contact with a mobile phone number or email address&#x20;
 
-2\) Anonymous contact: a contact whose mobile phone number or email number has no value 
+2\) Anonymous contact: a contact whose mobile phone number or email number has no value&#x20;
 
-3\) WeChat fan contact: WeChat \_openid valued contact, that is, the contact bound to the WeChat official account 
+3\) WeChat fan contact: WeChat \_openid valued contact, that is, the contact bound to the WeChat official account&#x20;
 
 4\) All contacts: all contacts in the platform
 
@@ -348,33 +348,31 @@ Contacts are managed in four categories:
 
 
 
-![](.gitbook/assets/tu-pian-1%20%282%29.png)
+![](<.gitbook/assets/tu-pian-1 (2).png>)
 
-## Search for Contacts 
+## Search for Contacts&#x20;
 
 In the contacts list, you can search for contacts based on any field. Fuzzy query is also supported. First select the field that need to be matched, then enter the keyword and click , and all contacts containing the keyword will be displayed in the list.
 
-![](.gitbook/assets/tu-pian-2%20%281%29.png)
+![](<.gitbook/assets/image (645).png>)
 
 ## Contact Details
 
 Click the contact row in the contacts list to view the contact details page, which displays a 360-degree panoramic view of the contact. The details mainly contain the following content:
 
-1.The red area 1 displays the important personal information of the contact, such as mobile, email, WeChat nickname and so on. 
+1.The red area 1 displays the important personal information of the contact, such as mobile, email, WeChat nickname and so on.&#x20;
 
-2.The red area 2 displays the contact's subscription status of each channel, including global subscription, email subscription, and mobile subscription status. The value of **Mobile subscribe** is Yes indicates both SMS and MMS have subscribed. The value of **Global subscribe** is No indicates both mobile and email have unsubscribed. 
+2.The red area 2 displays the contact's subscription status of each channel, including global subscription, email subscription, and mobile subscription status. The value of **Mobile subscribe** is Yes indicates both SMS and MMS have subscribed. The value of **Global subscribe** is No indicates both mobile and email have unsubscribed.&#x20;
 
-3.The red area 3 of displays the current **Follower Label** and **Contact Label** of the contact, and labels can be added or deleted directly. 
+3.The red area 3 of displays the current **Follower Label** and **Contact Label** of the contact, and labels can be added or deleted directly.&#x20;
 
-4.The red area 4 displays contact behavior dynamics and consumption history. The information flow view of **Contact dynamic** records all the behavior events of the contact in chronological order, such as mail opened, WeChat menu clicked, WeChat QR code scanned, etc. You can download events by clicking . After switching to calendar info view, you can view the contact’s activity time and active time period at a glance. **The events dynamically recorded by contact behaviors are preset events in the system. For details, please refer to Metadata&gt;Event Definition**
+4.The red area 4 displays contact behavior dynamics and consumption history. The information flow view of **Contact dynamic** records all the behavior events of the contact in chronological order, such as mail opened, WeChat menu clicked, WeChat QR code scanned, etc. You can download events by clicking . After switching to calendar info view, you can view the contact’s activity time and active time period at a glance. **The events dynamically recorded by contact behaviors are preset events in the system. For details, please refer to Metadata>Event Definition**
 
-5.The red area 5 displays all attributes of the contact, which are the current latest values and cannot be edited and modified directly. If you want to modify the attributes’ values of the contact, you can re-create or upload the contact \(keep the primary key field value unchaned, and just modify the values of other fields to new values\).
+5.The red area 5 displays all attributes of the contact, which are the current latest values and cannot be edited and modified directly. If you want to modify the attributes’ values of the contact, you can re-create or upload the contact (keep the primary key field value unchaned, and just modify the values of other fields to new values).
 
-![](.gitbook/assets/tu-pian-3%20%281%29.png)
+![](<.gitbook/assets/tu-pian-3 (1).png>)
 
-![](.gitbook/assets/tu-pian-4%20%281%29.png)
-
-
+![](<.gitbook/assets/tu-pian-4 (1).png>)
 
 
 
@@ -382,7 +380,7 @@ Click the contact row in the contacts list to view the contact details page, whi
 
 
 
-|  |
-| :--- |
 
 
+|   |
+| - |

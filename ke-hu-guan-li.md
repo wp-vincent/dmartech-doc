@@ -134,7 +134,7 @@ The Divider content is used to separate content, which can make the content of t
 * **Alignment**: left, center, right.&#x20;
 * **Margins**: Set the margins of the divider between the divider and other contents.
 
-![](<.gitbook/assets/image (645).png>)
+![](<.gitbook/assets/image (645) (1).png>)
 
 Parameter Description of Menu Content&#x20;
 
