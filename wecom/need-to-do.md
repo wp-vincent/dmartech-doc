@@ -44,6 +44,10 @@ Click "Agent Configuration" to modify the internal data of the created agent. Cl
 
 After authorizing Wecom, the information of employees selected within the visible scope of the agent will be automatically synchronized to the organization's staff structure; the organization staff needs to be configured in Wecom，choose \[Contacts].
 
+Wecom supports manual upload of company department configuration, providing both API synchronization and manual upload.
+
+![](broken-reference)
+
 About the permission configuration related to Wecom in Dmartech.
 
 All employees have organization-wide data visible for all data within the Dmartech Enterprise WeChat module, channel QR codes, enterprise broadcast, and message archives.

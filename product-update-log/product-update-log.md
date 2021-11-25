@@ -1,5 +1,30 @@
 # Product update log
 
+## 2.4.2-2021-11-25
+
+### Added
+
+* 【Marketing Journey】Add real-time journey email report and download；
+* 【Enterprise WeChat】Now support manual upload of company department configuration;
+* 【Form】Add background color setting for standard form;&#x20;
+* 【Material】Add check for duplication of similar material names;&#x20;
+* 【Segmentation】Added "backtracking" function to view the number of subgroups by different data authority sub-accounts;&#x20;
+* 【Enterprise Settings】Added the data permission of "Material - Email Header and Tail";
+* 【Open Platform】Added contact synchronization API;
+
+### Changed
+
+* 【Wecom】Adjusted the limit of Mass message sending from 4 times per month to 1 time per day;
+* 【Form】Support keyword search when matching fields of Jinshuju form;
+* 【Enterprise Settings] Further liberalization data permission configuration;
+* 【Enterprise Settings】Sub-account validity optimization;
+* 【Marketing Journey】Unified the statistical rules and terms of journey number;
+* 【Segmentation】 Front-end of tag search and subgroup conditions Optimized;
+
+### Fixed
+
+* 【Segmentation】Compatibility with special characters in exported data.
+
 ## 2.4.1-2021-09-28
 
 ### Added
