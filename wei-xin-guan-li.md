@@ -8,7 +8,7 @@ Choose **Contacts > Segmentation** from the main menu. The **segments list** pag
 
 ### Create a standard segment
 
-#### Step1 **Click "create segments"at the top right corner **
+#### Step1 **Click "create segments"at the top right corner**&#x20;
 
 ![](broken-reference)
 
@@ -16,15 +16,15 @@ Choose **Contacts > Segmentation** from the main menu. The **segments list** pag
 
 ![](<.gitbook/assets/tu-pian-6 (1).png>)
 
-**Step3 **Step 3Set filter criteria of the segment. To set the filter criteria about contact attributes, click the drop-down box under **Contacts attribute satisfying**... and select an attribute firstly, then select a filter criterion, and then enter the value as need. Different attribute fields correspond to different filter criteria.
+**Step3** Step 3Set filter criteria of the segment. To set the filter criteria about contact attributes, click the drop-down box under **Contacts attribute satisfying**... and select an attribute firstly, then select a filter criterion, and then enter the value as need. Different attribute fields correspond to different filter criteria.
 
 ![](<.gitbook/assets/tu-pian-7 (1).png>)
 
-**Step4 **After setting a filter criterion, click "+"to add a new filter criterion and click to delete it. The relationship between the added filter criteria is and by default. Click "and" to switch to or.
+**Step4** After setting a filter criterion, click "+"to add a new filter criterion and click to delete it. The relationship between the added filter criteria is and by default. Click "and" to switch to or.
 
 ![](<.gitbook/assets/tu-pian-8 (1).png>)
 
-**Step5 **To set the filter criteria about behavior events, click the drop-down box under **Behavioral event satisfying**... and select an event, then "Add event attributes" will appear. Click the drop-down box below to select an attribute and set a filter criterion.
+**Step5** To set the filter criteria about behavior events, click the drop-down box under **Behavioral event satisfying**... and select an event, then "Add event attributes" will appear. Click the drop-down box below to select an attribute and set a filter criterion.
 
 ![](<.gitbook/assets/tu-pian-9 (1).png>)
 
@@ -41,5 +41,5 @@ Step 6 Click **Add Condition Bunch** to tick to add a **Contact attribute condit
 
 _NOTE :The relationship between conditional clusters is and, and the conditions in the cluster can be and or or._
 
-**Step7 **Click "confirm" Dmartech will quickly screen out the contacts that meet the filter criteria.
+**Step7** Click "confirm" Dmartech will quickly screen out the contacts that meet the filter criteria.
 

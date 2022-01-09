@@ -16,7 +16,7 @@ Step 1Choose Data center> Meta data from the main menu. Select the User properti
 * Length: Set the field length according to the Type.&#x20;
 * Key identify: The platform will merge data record according to the primary key attributes. If Key identify is enabled, the different records with the same primary key values will be considered as the same contact. Therefore, it is necessary to set the attribute that can represent the contacts’ identity as the primary key, such as mobile, email, etc. The primary key is unique. Attributes with repeated values cannot be defined as primary keys.&#x20;
 
-**Step 2 **Click 'Save" to complete the creation.
+**Step 2** Click 'Save" to complete the creation.
 
 ![](<.gitbook/assets/image (575).png>)
 

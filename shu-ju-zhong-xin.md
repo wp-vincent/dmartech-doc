@@ -42,7 +42,7 @@ Variable Condition is similar to Event Condition, and the condition judgment is 
 
 ### Tag Condition
 
-**Tag Condition **is a unique control for real-time journey. Tag Condition is used to determine whether certain tags are contained or not contained on the contact. Tag Condition is to determine whether certain tags are "contained" or "not included" on the contact, and this control also has Y and N branches.
+**Tag Condition** is a unique control for real-time journey. Tag Condition is used to determine whether certain tags are contained or not contained on the contact. Tag Condition is to determine whether certain tags are "contained" or "not included" on the contact, and this control also has Y and N branches.
 
 ### Condition Spilt
 
@@ -60,6 +60,6 @@ It is used to send plan A and plan B randomly in proportion to verify the attrac
 
 &#x20;**A/B Test split** is used to test the marketing effect of different emails, and up to 4 emails can be selected for testing. Dmartech will send different emails to different contacts proportionally, and judge which email is more effective according to indicators such as numbers of open and click.&#x20;
 
-### **Exit **
+### **Exit**&#x20;
 
 **Exit** is the final node of the journey. The Exit control must be added manually at the end of each branch in the real-time journey. Dmartech will add the Exit control by default in the single time journey and the cycle journey so you do not need to set it.

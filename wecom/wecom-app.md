@@ -5,7 +5,7 @@
 After Dmartech's self-built application is completed in Wecom binding, Dmartech will
 
 * **Pushing application messages, and employees complete the follow-up through \[Dmartech Notification].**
-* **Synchronizing details of Dmartech contact **
+* **Synchronizing details of Dmartech contact**&#x20;
 * **Portraits/tags/attributes and events.**
 * **Edit (add/remove) the tags of contacts**
 * **Selective display of attributes and events of contacts.**

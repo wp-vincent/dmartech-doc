@@ -28,11 +28,11 @@ The time period distribution of the recipient response events of the different c
 
 ![](<../.gitbook/assets/image (506).png>)
 
-* **Email performance **
+* **Email performance**&#x20;
 
 Display the number of recipients in each step in the email marketing process.&#x20;
 
-* **WeChat performance **
+* **WeChat performance**&#x20;
 
 Display the number of recipients in each step in the WeChat marketing process.&#x20;
 
@@ -46,7 +46,7 @@ Display the number of recipients in each step in the MMS marketing process.
 
 ![](<../.gitbook/assets/image (497).png>)
 
-_NOTE _
+_NOTE_&#x20;
 
 _The above data are all be counted in the next day._
 
@@ -56,7 +56,7 @@ _The above data are all be counted in the next day._
 
 ![](<../.gitbook/assets/image (503).png>)
 
-**Step 2 **Select the data Source. You can select multiple journeys in a specified time period or specify a single journey. The sending status of each channel will be displayed in the list below.
+**Step 2** Select the data Source. You can select multiple journeys in a specified time period or specify a single journey. The sending status of each channel will be displayed in the list below.
 
 **Step 3** Click Task list of the Email channel to view the email report, and similarly, click Task list of other channels to view the corresponding report.
 
@@ -78,7 +78,7 @@ The following is the content of the mail report:&#x20;
 
 ![](<../.gitbook/assets/image (551).png>)
 
-**What is the difference between open and render? **
+**What is the difference between open and render?**&#x20;
 
 The basis for judging whether to open the email is whether to load the hidden tracking pixel in the email. Some mail clients do not load images by default (such as Outlook). Therefore, by default the opened mail without clicking on any hyperlink in the email will not be counted as open or render. If the pixel image is not loaded but the email hyperlink is clicked, it will be counted in the open and click statistics, but no Open Email event will be generated at this time. After the pixel image is loaded, it will be counted as open and render.&#x20;
 
@@ -88,13 +88,13 @@ Display the statistics of the number of contacts of sent, delivered, opened, and
 
 ![](<../.gitbook/assets/image (545).png>)
 
-* **Email service providers radio **
+* **Email service providers radio**&#x20;
 
 Service provider statistics of recipient mailboxes. You can check the number and proportion of recipients of each service provider.
 
 ![](<../.gitbook/assets/image (558).png>)
 
-* **Open device ratio **
+* **Open device ratio**&#x20;
 
 Statistics of the recipient’s device to open the mailbox, such as PC, mobile or others.
 
@@ -112,11 +112,11 @@ Dmartech support custom reports in order to meet the different report needs of u
 
 ![](<../.gitbook/assets/image (524).png>)
 
-_NOTE _
+_NOTE_&#x20;
 
 _Only the single time journey and the cycle journey have task details of the report. There is no report for the real-time journey._
 
-### **Export the Report **
+### **Export the Report**&#x20;
 
 Choose Data center > Campaign report from the main menu. Select the Export Data tab on the top navigation bar to enter the Export raw data page. This module is used to export various sending reports of emails, SMS and MMS.&#x20;
 
@@ -137,14 +137,14 @@ Export the original sending data of the specified mail task according to the mai
 * Email subject: The default is Email raw data export notification.&#x20;
 * Email address: Set the email address for receiving the export notification. Click the download link in the email to download the report.
 
-_NOTE _
+_NOTE_&#x20;
 
-* _Multiple opens and clicks will be displayed repeatedly in the raw data. _
+* _Multiple opens and clicks will be displayed repeatedly in the raw data._&#x20;
 * _A zip file will be downloaded when multiple journeys are selected._
 
 **Email send detail**
 
-![](<../.gitbook/assets/image (642).png>)
+![](<../.gitbook/assets/image (642) (1).png>)
 
 The header of the downloaded file:
 

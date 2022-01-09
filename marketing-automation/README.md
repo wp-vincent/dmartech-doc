@@ -19,7 +19,7 @@ To use the marketing journey editor, the following conditions are generally requ
 
 ### create a single time journey
 
-**Step 1 **Choose **Marketing > Automation** from the main menu to view journeys list page. Journeys can be managed in groups. There is a built-in group named Default group in Dmartech. Click "+" next to All grouping to create a new group by yourself: enter Group Name, select the superior group (All grouping by default). You can create up to 4 levels of groups under All grouping. The new journey will be created in Default group if no group is added.&#x20;
+**Step 1** Choose **Marketing > Automation** from the main menu to view journeys list page. Journeys can be managed in groups. There is a built-in group named Default group in Dmartech. Click "+" next to All grouping to create a new group by yourself: enter Group Name, select the superior group (All grouping by default). You can create up to 4 levels of groups under All grouping. The new journey will be created in Default group if no group is added.&#x20;
 
 Generally, it is recommended to set groups according to marketing scene or creator or department since it is easy to find and manage journeys.
 
@@ -34,16 +34,16 @@ Generally, it is recommended to set groups according to marketing scene or creat
 
 ![](<../.gitbook/assets/image (493).png>)
 
-**Step 3 **Click "Confirm" to enter the drag-and-drop drawing page.&#x20;
+**Step 3** Click "Confirm" to enter the drag-and-drop drawing page.&#x20;
 
 Journey drawing includes three steps: drag and drop the control — connection — set the control. That is, drag the control on the left navigation tree to the canvas on the right area one by one and place them in order, then connect the controls according to the process. First, you need to drag a Recipients control by selecting Segmentation or Account.&#x20;
 
-* Click** Segmentation** to view the names of all created segment. Select a segment as the audience for this journey.&#x20;
+* Click **Segmentation** to view the names of all created segment. Select a segment as the audience for this journey.&#x20;
 * Click **Account** to view the WeChat official account bound to the current account. Select it to use all followers as the audience for this journey.
 
 ![](<../.gitbook/assets/image (569).png>)
 
-**Step 4 **Drag and drop the rest of the controls (Messages or Flow Actions) one by one according to the marketing journey plan. For example, design according to the following process:
+**Step 4** Drag and drop the rest of the controls (Messages or Flow Actions) one by one according to the marketing journey plan. For example, design according to the following process:
 
 ![](<../.gitbook/assets/image (513).png>)
 
@@ -51,7 +51,7 @@ The restoration design during the journey is as follows:
 
 ![](<../.gitbook/assets/image (557).png>)
 
-**Step 5 **Click the control and then to set details of the control. The setting of the Condition spilt control is as figure shows below:
+**Step 5** Click the control and then to set details of the control. The setting of the Condition spilt control is as figure shows below:
 
 ![](<../.gitbook/assets/image (516).png>)
 
@@ -89,7 +89,7 @@ Click to set details of the A/B Test split control. The main setting parameters 
 
 ### Create a real-time journey
 
-**Step 1**Choose** Marketing > Automation** from the main menu. Click "Create" to enter the Create New Automation explorer. Then choose Real-time Trigger tab to start a new real-time journey by setting following parameters:&#x20;
+**Step 1**Choose **Marketing > Automation** from the main menu. Click "Create" to enter the Create New Automation explorer. Then choose Real-time Trigger tab to start a new real-time journey by setting following parameters:&#x20;
 
 * Select time zone: Dmartech uses Beijing time(UTC/GMT+08:00) for domestic users by default. You can change the default time zone by choosing Account name > General when necessary.&#x20;
 * Name: Set the name of the journey.&#x20;

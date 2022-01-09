@@ -14,9 +14,9 @@ Each dashboard includes: dashboard name, the number of reports in the dashboard,
 
 ### Create dashboard&#x20;
 
-**Step 1 **Click add dashboard on the upper left corner. After entering the name, you can create a dashboard. The latest dashboard will be shown on the top.&#x20;
+**Step 1** Click add dashboard on the upper left corner. After entering the name, you can create a dashboard. The latest dashboard will be shown on the top.&#x20;
 
-**Step 2 **Click dashboard name to enter the dashboard page. You have to add report group firstly. After typing in the new group name, click confirm. Then you have your first report group.&#x20;
+**Step 2** Click dashboard name to enter the dashboard page. You have to add report group firstly. After typing in the new group name, click confirm. Then you have your first report group.&#x20;
 
 **Step 3** Click + on the top right corner of the page to create report components. You can choose components from bookmarks (which is bookmarks generated through attribute analysis, event analysis and visualization report) or you can create a new component.&#x20;
 
@@ -70,7 +70,7 @@ Contact analysis is to generate analyzed figures such as curve chart, histogram,
 
 Click Data analysis then click contact analysis. The steps are same as event analysis.&#x20;
 
-**Step 1 **Click setting condition to unfold condition setting. There are three setting conditions: \[display], \[grouping] and \[filter condition]. \[Display] means the contact attribute we are going to analyze. It is supported to have raw data (duplicated) or the deduplicated number in display.&#x20;
+**Step 1** Click setting condition to unfold condition setting. There are three setting conditions: \[display], \[grouping] and \[filter condition]. \[Display] means the contact attribute we are going to analyze. It is supported to have raw data (duplicated) or the deduplicated number in display.&#x20;
 
 **Step 2** Analyze the contact attributes and generate chart. You can also save them as bookmark or download the raw data in CSV format.
 

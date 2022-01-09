@@ -45,13 +45,13 @@ Among them, the Subscription field is associated with the system's global subscr
 
 Just to select the corresponding field name of Dmartech meta data from the drop-down list on the right.
 
-**NOTE **
+**NOTE**&#x20;
 
 _Before creating the form, it is required to create all the form fields by choosing Data center > Meta data > User properties in advance._
 
 ![](.gitbook/assets/tu-pian-52.png)
 
-**Step 7**_ _After matching all fields, click "complete" to complete the creation of the form. You can view the form link, form QR code and "export HTML" at the top right side of the page, and you can place the form by copying the form link or scanning the QR code.&#x20;
+**Step 7** __ After matching all fields, click "complete" to complete the creation of the form. You can view the form link, form QR code and "export HTML" at the top right side of the page, and you can place the form by copying the form link or scanning the QR code.&#x20;
 
 Generally, it is recommended to test whether the form content is correct and whether the data can import to Dmartech successfully after submitting it first. The scenarios of various verification errors should also be considered.&#x20;
 
@@ -83,7 +83,7 @@ All users will be jumped to the same page after submitting the form with the abo
 
 &#x20;If you want to jump to a different page based on the value submitted by the user in the form, please select Rules settings.
 
-**NOTE **
+**NOTE**&#x20;
 
 _Different jump pages can only be set according to the value of one field._
 

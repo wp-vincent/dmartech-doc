@@ -12,7 +12,7 @@ We introduced follower tags in WeChat Management. Follower tags are the tags whi
 
 &#x20;Do not add rules to the tag after the tag is created. You can manually add a tag in the Contact detail page, or select a tag when importing/ creating contacts. You can also use Add tag or Remove tag to add or delete tags to contacts when creating a journey.&#x20;
 
-**Add rules (equivalent to smart tags) **
+**Add rules (equivalent to smart tags)**&#x20;
 
 **Step 2** Click on the created tag and set rules of the tag. Add a filter criterion about contacts attributes.
 

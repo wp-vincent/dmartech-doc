@@ -40,7 +40,7 @@ The QR code created and managed in Dmartech is a QR code with parameters. In ord
 
 **Label** is used to mark the characteristics of a contact. It is also used to portray contact portraits, as well as classify and identify contacts.&#x20;
 
-**Follower Label **is the label added to WeChat followers. It is used to classify and mark WeChat followers. Its addition and management are on the page of **WeChat > Follower**, and are synchronized with the WeChat public background.&#x20;
+**Follower Label** is the label added to WeChat followers. It is used to classify and mark WeChat followers. Its addition and management are on the page of **WeChat > Follower**, and are synchronized with the WeChat public background.&#x20;
 
 **Contact Label** is a label on the page of **Data Center > Tag mgt**, it can be used to mark and classify all contacts.
 
@@ -48,7 +48,7 @@ The QR code created and managed in Dmartech is a QR code with parameters. In ord
 
 **Mass Message** is a general message sent to followers in bulk, such as graphic push. Followers can receive up to 4 mass messages per month.&#x20;
 
-Only followers who interacted with the official account within 48 hours can receive **customer service messages. **
+Only followers who interacted with the official account within 48 hours can receive **customer service messages.**&#x20;
 
 **Template message** is used to send important service notifications to followers.
 

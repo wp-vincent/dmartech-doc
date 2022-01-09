@@ -40,19 +40,19 @@ If the marketing is done well, and the products are indeed required for the lost
 
 ### Conference process automation&#x20;
 
-**1.Background **
+**1.Background**&#x20;
 
 Inviting existing customers to attend the conference.&#x20;
 
-**2.Purpose **
+**2.Purpose**&#x20;
 
 Collecting customer information to improve customer portraits. Obtaining more information for later use.&#x20;
 
-**3.Difficulties **
+**3.Difficulties**&#x20;
 
 The meeting takes a long time from preparation to completion, and the labor cost is too large. The collected information cannot be associated with the customer, or the association takes a long time. So it is unable to connect customers' information in different channels.&#x20;
 
-**4.Analysis method **
+**4.Analysis method**&#x20;
 
 Dividing the meeting task into three stages: registration - sign in – end. We can determine the data can be collected at each stage and let the process run automatically.&#x20;
 
@@ -114,7 +114,7 @@ Automatically send SMS to remind users the day before the conference. The above 
 
 ![](<.gitbook/assets/image (561).png>)
 
-**Step 2 Sign-in stage **
+**Step 2 Sign-in stage**&#x20;
 
 1.Event Condition — judge whether to submit the registration form&#x20;
 
@@ -130,7 +130,7 @@ After the user scans the QR code, the sign-in is successful. The user is notifie
 
 The above is the construction process and rules of the sign-in stage during the whole journey of the conference.
 
-**Step 3 End stage **
+**Step 3 End stage**&#x20;
 
 1.Event Condition — obtain information After the conference, the user scans the new QR code to fill in the email address to get the conference document.
 

@@ -24,13 +24,13 @@ Dmartech supports the creation of email header/footer templates in order to redu
 
 ![](<.gitbook/assets/tu-pian-18 (1).png>)
 
-**Step 2 **Select which group will the email belong to in **folder** field. Then click Draggable editor in create method.
+**Step 2** Select which group will the email belong to in **folder** field. Then click Draggable editor in create method.
 
 ![](<.gitbook/assets/image (649).png>)
 
-**Step 3 **In the draggable editor page, enter **content name**.&#x20;
+**Step 3** In the draggable editor page, enter **content name**.&#x20;
 
-**Step 4 **Start to design the email content. In the editor page, the left side is the display area and the right side is the edit area. Click the **Settings** tab to set the global parameters of the email.
+**Step 4** Start to design the email content. In the editor page, the left side is the display area and the right side is the edit area. Click the **Settings** tab to set the global parameters of the email.
 
 ![](<.gitbook/assets/image (654).png>)
 
@@ -156,8 +156,8 @@ Item style:&#x20;
 * **Alignment**: The overall alignment of all items.&#x20;
 * **Font**: The text font in each item.&#x20;
 * **Styles**: Bold, underline, italic.&#x20;
-* **Font size **
-* **Text color **
+* **Font size**&#x20;
+* **Text color**&#x20;
 * **Background color**: Item background color.&#x20;
 * **Border**: The border of each item.&#x20;
 * **Border radius**: Set rounded corners of the border.&#x20;
@@ -168,21 +168,21 @@ Item style:&#x20;
 
 **Step 7** Repeat the above steps (drag the block, set block, drag the content, set content) to complete the email creation step by step.&#x20;
 
-**Step 8 **Click “Preview" or "Send test" at the top right corner after completing creation. Before that please make sure that the email label has been set. During previewing or testing, please pay attention to check whether the email format and content are correct, whether all links are clickable, and try to test how the mail displayed in different clients because different clients display may be different. For more details, please refer to Notes on Using Mail Editor.
+**Step 8** Click “Preview" or "Send test" at the top right corner after completing creation. Before that please make sure that the email label has been set. During previewing or testing, please pay attention to check whether the email format and content are correct, whether all links are clickable, and try to test how the mail displayed in different clients because different clients display may be different. For more details, please refer to Notes on Using Mail Editor.
 
-** Step 9 **After confirming that the email content is ok, you can click "Export HTML"to export the html file of the email, which can be used for other systems or secondary development.&#x20;
+&#x20;**Step 9** After confirming that the email content is ok, you can click "Export HTML"to export the html file of the email, which can be used for other systems or secondary development.&#x20;
 
 **Step 10** Click **Save and Exit**.
 
 Method 2: Create an email by using template&#x20;
 
-**Step 1 **If you don’t know how to create an exquisite email, you can select an email template with a suitable subject from the template library. Enter the template library, Dmartech presets templates for different themes, and you can directly choose to apply them.
+**Step 1** If you don’t know how to create an exquisite email, you can select an email template with a suitable subject from the template library. Enter the template library, Dmartech presets templates for different themes, and you can directly choose to apply them.
 
 ![](<.gitbook/assets/image (646).png>)
 
-**Step 2 **Click "Preview" to view the email template. Click Use to directly apply the template to the editor.&#x20;
+**Step 2** Click "Preview" to view the email template. Click Use to directly apply the template to the editor.&#x20;
 
-![](<.gitbook/assets/image (636).png>)
+![](<.gitbook/assets/image (636) (1).png>)
 
 **Step 3** Click on any content in the email to modify and edit your own content. Other operations are the same as the way to create an email manually above.
 
@@ -202,13 +202,13 @@ Step1 Choose **Marketing > Contents** from the main menu. Click the Email tab. C
 
 ### Create an Email by Importing Zip Package
 
-**Step 1 **Choose Marketing > Contents from the main menu. Click the Email tab. Click “Add Content“. Then click Import zip in create method.&#x20;
+**Step 1** Choose Marketing > Contents from the main menu. Click the Email tab. Click “Add Content“. Then click Import zip in create method.&#x20;
 
 **Step 2** Import a local zip package. The compressed package should comply with the following rules:&#x20;
 
 * The compressed package needs to contain an html file and an image folder, the name of the image folder must be images.&#x20;
 * The name of the image file must be in English, without Chinese characters or special symbols.
 
-**NOTE **
+**NOTE**&#x20;
 
 _If some images in the email are not displayed after successfully uploading the zip file, please check whether the case of the image suffix is the same as the case of the html image suffix. If they are inconsistent, the image may not be displayed._
