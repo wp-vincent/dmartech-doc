@@ -1,5 +1,27 @@
 # Product update log
 
+## 2.4.3-2022-1-19
+
+### Added
+
+* 【Contact Scoring】New contact scoring rating function!
+* 【WeChat Management】New draft box related functions (21-12-30 is online)
+
+### Changed
+
+* 【Leads】The  "Forms" module is renamed "Leads".
+* 【Leads】 Text item editing optimization.
+* 【Contents】 Email material upload limit adjusted to 4M.
+* 【Contents】The Layout add right indent button.
+* 【Metadata】 Adjust some text descriptions.
+* 【Global]】The sidebar in the page can now be freely set to shrink.
+* 【Marketing journey】 The same name duplicate check when created.
+
+### Fixed
+
+* 【Leads】 Solve the line break problem in form data export csv.
+* 【Marketing Journey】 Solve the problem of permission detection when editing material in the journey.
+
 ## 2.4.2-2021-11-25
 
 ### Added
