@@ -144,7 +144,7 @@ _NOTE_&#x20;
 
 **Email send detail**
 
-![](<../.gitbook/assets/image (642) (1).png>)
+![](<../.gitbook/assets/image (642) (1) (1).png>)
 
 The header of the downloaded file:
 
@@ -152,4 +152,4 @@ The header of the downloaded file:
 
 * **Mail comparison data**
 
-![](<../.gitbook/assets/image (641).png>)
+![](<../.gitbook/assets/image (641) (1).png>)

@@ -23,7 +23,7 @@ Synchronize DMARTECH WeChat material with WeChat public background. Select a tim
 * Web page preview is to jump to a new web page to preview the text message&#x20;
 * Mobile preview provides two-dimensional code of text message, scanning two-dimensional code can preview text message on mobile terminal
 
-![](<../.gitbook/assets/image (642).png>)
+![](<../.gitbook/assets/image (642) (1).png>)
 
 ![Mobile preview](../.gitbook/assets/shou-ji-yu-lan-eng.jpg)
 
@@ -55,7 +55,7 @@ The video does not support local upload, and the existing video in wechat backgr
 
 Graphic messages that are successfully published in the draft box will appear in the published list.
 
-![](<../.gitbook/assets/image (656).png>)
+![](<../.gitbook/assets/image (656) (1).png>)
 
 1）The successfully published graphic message supports saving as new draft and deleting, after clicking save as new draft, the graphic message will appear in the draft box, as a new graphic that has not been synced to WeChat, you need to manually click sync to WeChat.
 

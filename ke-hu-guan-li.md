@@ -26,7 +26,7 @@ Dmartech supports the creation of email header/footer templates in order to redu
 
 **Step 2** Select which group will the email belong to in **folder** field. Then click Draggable editor in create method.
 
-![](<.gitbook/assets/image (649).png>)
+![](<.gitbook/assets/image (649) (1).png>)
 
 **Step 3** In the draggable editor page, enter **content name**.&#x20;
 
@@ -54,11 +54,11 @@ Select the image, then set **Size, Position, Repeat and Alternate color** of the
 
 * **Email header & email footer**: Select the template of the email header and footer from drop-down list. Click to insert a new email header/footer template.
 
-![Email header\&email footer](<.gitbook/assets/image (648).png>)
+![Email header\&email footer](<.gitbook/assets/image (648) (1).png>)
 
 **Step 5**：After the global settings are completed, you can start dragging the blocks. Click the Rows tab to drag a block into the edit area. Click the block and the properties of the block can be set on the right area.
 
-![](<.gitbook/assets/image (647).png>)
+![](<.gitbook/assets/image (647) (1).png>)
 
 * **Block proportion**: You can set the proportion of each column of the multi-column block. The default proportion is evenly distributed.&#x20;
 * **Width**: The overall block width can be set here, and it supports adaptive.&#x20;
@@ -72,7 +72,7 @@ Select the image, then set **Size, Position, Repeat and Alternate color** of the
 
 **Step 6：**After the block settings are completed, you can place content into blocks. Click the Content tab to select a content element. Drag a content element to the block on the edit area. As the figure shows below, drag the Text element to the block, and then you can edit the text content on the right after clicking the text in the display area.
 
-![](<.gitbook/assets/image (640).png>)
+![](<.gitbook/assets/image (640) (1).png>)
 
 ![](broken-reference)
 
@@ -134,7 +134,7 @@ The Divider content is used to separate content, which can make the content of t
 * **Alignment**: left, center, right.&#x20;
 * **Margins**: Set the margins of the divider between the divider and other contents.
 
-![](<.gitbook/assets/image (645) (1).png>)
+![](<.gitbook/assets/image (645) (1) (1).png>)
 
 Parameter Description of Menu Content&#x20;
 
@@ -178,7 +178,7 @@ Method 2: Create an email by using template&#x20;
 
 **Step 1** If you don’t know how to create an exquisite email, you can select an email template with a suitable subject from the template library. Enter the template library, Dmartech presets templates for different themes, and you can directly choose to apply them.
 
-![](<.gitbook/assets/image (646).png>)
+![](<.gitbook/assets/image (646) (1).png>)
 
 **Step 2** Click "Preview" to view the email template. Click Use to directly apply the template to the editor.&#x20;
 
@@ -192,9 +192,9 @@ Method 2: Create an email by using template&#x20;
 
 Step1 Choose **Marketing > Contents** from the main menu. Click the Email tab. Click “Add content“. Then click Past in code in create method.
 
-![](<.gitbook/assets/image (644).png>)
+![](<.gitbook/assets/image (644) (1).png>)
 
-![](<.gitbook/assets/image (643) (1).png>)
+![](<.gitbook/assets/image (643) (1) (1).png>)
 
 **Step 2** Enter the code editor, you can paste the html code into the editor after clicking Source.
 

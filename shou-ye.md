@@ -354,7 +354,7 @@ Contacts are managed in four categories:&#x20;
 
 In the contacts list, you can search for contacts based on any field. Fuzzy query is also supported. First select the field that need to be matched, then enter the keyword and click , and all contacts containing the keyword will be displayed in the list.
 
-![](<.gitbook/assets/image (645).png>)
+![](<.gitbook/assets/image (645) (1).png>)
 
 ## Contact Details
 

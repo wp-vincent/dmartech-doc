@@ -28,7 +28,7 @@ Sending details: Shows the contact name, the employee to whom it belongs and the
 
 Click "New Message" in the upper right corner of the default page of enterprise broadcast, and firstly choose the method and type.
 
-![](<../.gitbook/assets/image (639).png>)
+![](<../.gitbook/assets/image (639) (1).png>)
 
 **Group sending options**
 
