@@ -24,7 +24,7 @@
   * [Message archiving](wecom/message-archiving.md)
   * [Wecom App](wecom/wecom-app.md)
 * [Contents Creation and Management — Mail/ SMS/ MMS](ke-hu-guan-li.md)
-* [Forms Creation and Management](forms-creation-and-management.md)
+* [Leads](forms-creation-and-management.md)
 * [Marketing Automation](marketing-automation/README.md)
   * [Marketing Journey Case](marketing-automation/marketing-journey-case.md)
   * [View the Journey Report](marketing-automation/view-the-journey-report.md)
