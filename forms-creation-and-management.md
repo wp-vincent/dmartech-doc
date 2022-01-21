@@ -1,8 +1,4 @@
----
-description: Leads，表单正式更名为“线索池”。
----
-
-# Leads
+# Forms Creation and Management
 
 Forms are an important tool for collecting contact information. Dmartech can not only create forms to collect form information, but also use form events (e.g., open form, and submit form) as important filter criteria of the marketing journey, and trigger different journey settings based on the content of the form. Form is an important marketing tool and means.
 
