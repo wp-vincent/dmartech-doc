@@ -194,7 +194,7 @@ Step1 Choose **Marketing > Contents** from the main menu. Click the Email tab. C
 
 ![](<.gitbook/assets/image (644) (1).png>)
 
-![](<.gitbook/assets/image (643) (1) (1).png>)
+![](<.gitbook/assets/image (643) (1) (1) (1).png>)
 
 **Step 2** Enter the code editor, you can paste the html code into the editor after clicking Source.
 

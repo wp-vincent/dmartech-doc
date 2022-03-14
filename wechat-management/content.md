@@ -23,7 +23,7 @@ Synchronize DMARTECH WeChat material with WeChat public background. Select a tim
 * Web page preview is to jump to a new web page to preview the text message&#x20;
 * Mobile preview provides two-dimensional code of text message, scanning two-dimensional code can preview text message on mobile terminal
 
-![](<../.gitbook/assets/image (642) (1).png>)
+![](<../.gitbook/assets/image (642) (1) (1).png>)
 
 ![Mobile preview](../.gitbook/assets/shou-ji-yu-lan-eng.jpg)
 

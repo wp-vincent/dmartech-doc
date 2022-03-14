@@ -34,7 +34,7 @@ Two events are involved: registration and order placement. These two events are 
 
 In the email summary for real-time trips, a report portal and a separate number of clicks have been added, which can be clicked to jump to the details page of the trip email delivery report and support downloads.
 
-![](<../.gitbook/assets/image (643) (1).png>)
+![](<../.gitbook/assets/image (643) (1) (1).png>)
 
 _**Please note that the live trip report only supports viewing data with a creation date after this version update, historical live trips prior to version 2.4.2 do not support viewing the live trip report.**_
 

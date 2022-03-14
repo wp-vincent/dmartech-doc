@@ -144,7 +144,7 @@ _NOTE_&#x20;
 
 **Email send detail**
 
-![](<../.gitbook/assets/image (642) (1) (1).png>)
+![](<../.gitbook/assets/image (642) (1) (1) (1).png>)
 
 The header of the downloaded file:
 

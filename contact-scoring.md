@@ -58,7 +58,7 @@ Fields are aligned with the corresponding fields of the system metadata
 
 Edit the scoring factor, take the event factor first open email as an example, click the edit button to bring up the edit window
 
-![](<.gitbook/assets/image (642).png>)
+![](<.gitbook/assets/image (642) (1).png>)
 
 Support to select the conditions of scoring rules, set the scoring time, select the open mailing list, as well as you can see the estimated number of people and the scoring criteria and upper limit, click OK to finish editing. The scoring factor can also be dumped as a template.&#x20;
 

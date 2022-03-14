@@ -23,6 +23,7 @@
   * [Enterprise Broadcast](wecom/enterprise-broadcast.md)
   * [Message archiving](wecom/message-archiving.md)
   * [Wecom App](wecom/wecom-app.md)
+* [Interactive Center](interactive-center.md)
 * [Contents Creation and Management — Mail/ SMS/ MMS](ke-hu-guan-li.md)
 * [Leads](forms-creation-and-management.md)
 * [Marketing Automation](marketing-automation/README.md)
