@@ -1,5 +1,15 @@
 # Product update log
 
+## Quickwin 1.0-2022-3-1
+
+### Added
+
+* 【Interaction Center】New interaction center, providing a rich template style library, associated with standard forms, to meet a variety of marketing needs under the scenario of page creation.&#x20;
+* 【Enterprise Settings】Support marketing new channels - small program creation, reuse public number body to create new marketing small programs, to achieve Dmartech multi-scene interaction.&#x20;
+* 【Interaction Center】to achieve marketing content one page and one code tracking statistics, SMS and other channels directly to the small program.&#x20;
+* 【WeChat management]】WeChat management associated small programs support the selection of authorized small programs.
+* &#x20;【Metadata】Add applet events and user attributes.
+
 ## 2.4.3-2022-1-19
 
 ### Added
