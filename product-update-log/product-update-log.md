@@ -1,5 +1,27 @@
 # Product update log
 
+## 2.4.5-2022-4-7
+
+### Added
+
+* 【Marketing journey】 Random branch control in single/cycle journey adjusted to three branches;
+* 【Metadata】dd custom field order to user attributes;
+* 【WeChat Management】New openid information column display in fan management list;
+* 【Enterprise Settings】Public number support synchronization.;
+* 【Enterprise Settings】Enterprise WeChat add visible permission control;&#x20;
+* 【Enterprise Settings】 Enterprise WeChat add visible permission control;
+
+### Changed
+
+* 【WeChat Management】Optimization of draft box for material management；
+* 【Data Center】Online marketing activities export report optimization；
+
+### Fixed
+
+* 【Marketing Journey】Lead pool repair gold data form international cell phone number format.&#x20;
+* 【Data Center】 Interface prompt language optimization.&#x20;
+* 【Data Center】Export email comparison data optimization.
+
 ## Quickwin 1.0-2022-3-1
 
 ### Added
