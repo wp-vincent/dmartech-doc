@@ -152,4 +152,4 @@ The header of the downloaded file:
 
 * **Mail comparison data**
 
-![](<../.gitbook/assets/image (641) (1).png>)
+![](<../.gitbook/assets/image (641) (1) (1).png>)

@@ -24,7 +24,7 @@ Offline: pages in publish state support downline, and pages can be deleted only 
 
 Click the Create Page button in the upper right corner, fill in the page name and select the group to enter the editor mode creation page.
 
-![](<.gitbook/assets/image (643).png>)
+![](<.gitbook/assets/image (643) (1).png>)
 
 The interactive center provides an editor creation page containing rich style templates, with five modules on the left: style area, template area, layout tools, associated forms and preview.&#x20;
 

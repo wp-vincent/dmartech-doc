@@ -55,7 +55,7 @@ The video does not support local upload, and the existing video in wechat backgr
 
 Graphic messages that are successfully published in the draft box will appear in the published list.
 
-![](<../.gitbook/assets/image (656) (1).png>)
+![](<../.gitbook/assets/image (656) (1) (1).png>)
 
 1）The successfully published graphic message supports saving as new draft and deleting, after clicking save as new draft, the graphic message will appear in the draft box, as a new graphic that has not been synced to WeChat, you need to manually click sync to WeChat.
 

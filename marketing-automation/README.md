@@ -23,7 +23,7 @@ To use the marketing journey editor, the following conditions are generally requ
 
 Generally, it is recommended to set groups according to marketing scene or creator or department since it is easy to find and manage journeys.
 
-![](<../.gitbook/assets/image (638).png>)
+![](<../.gitbook/assets/image (638) (1).png>)
 
 **Step 2**Click"create" to enter the Create New Automation explorer. Then choose Simple Flow tab to start a new single journey by setting following parameters:&#x20;
 
