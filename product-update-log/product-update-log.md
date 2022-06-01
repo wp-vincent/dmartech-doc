@@ -1,5 +1,21 @@
 # Product update log
 
+## 2.4.6-2022-5-24
+
+### Added
+
+* 【WeChat Management】Add tagging function to custom menu;
+
+### Changed
+
+* 【Material Management】Adjust the material limit of material management；
+* 【Contact Management】Add tag as a non-required item when creating contacts；
+* 【Contact Subgroup】 Adjusted the time filtering conditions in the contact properties；
+
+### Fixed
+
+* 【Global】Optimize interface filtering, add "global search" function for form, tag and other module queries.
+
 ## 2.4.5-2022-4-7
 
 ### Added
