@@ -95,7 +95,7 @@ _2.As the figure shows above, you can insert custom fields in the email._
 * Image alt&#x20;
 * Margins: Set the margins of the image between the image and other contents.
 
-![](<.gitbook/assets/image (651) (1).png>)
+![](<.gitbook/assets/image (651) (1) (1).png>)
 
 * Parameter Description of Image card Content Graphic settings need to set the Style first.&#x20;
 * Text position: The layout of the image and the text.&#x20;

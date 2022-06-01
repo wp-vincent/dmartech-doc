@@ -2,7 +2,7 @@
 
 Material management manages all kinds of materials used in the operation of WeChat official account, including text and text message materials, picture materials, voice materials and video materials, supports operations such as adding, deleting, modifying and checking, and creates a material library for sending and using.
 
-Click "WeChat management" -> material management, you can enter the material management page. There is an upper limit on the amount of material stored in the library: text and text message material and picture material are online at 5000, and other types are 1000.
+Click "WeChat management" -> material management, you can enter the material management page. There is an upper limit on the amount of material stored in the library: text and text message material and picture material are online at 100000, and other types are 1000.
 
 _**In December 2021, WeChat public backend adjusted the draft box interface, added a new publishing interface, and gradually completed grayscale testing for all public numbers.**_
 
@@ -33,7 +33,7 @@ Synchronize DMARTECH WeChat material with WeChat public background. Select a tim
 
 【Picture】
 
-1\) The creation of image material can be completed by uploading a local image with a size of less than 10m. Support PNG / jpeg / JPG / GIF format.&#x20;
+1\) The creation of image material can be completed by uploading a local image with a size of less than 10m. Support bmp/png/jpeg/jpg/gifformat.&#x20;
 
 2\) Each image material supports preview and delete operation.
 
@@ -41,7 +41,7 @@ Synchronize DMARTECH WeChat material with WeChat public background. Select a tim
 
 【Audio】
 
-Upload audio material from local, the size of material is not more than 2m, playback length is not more than 60s, support AMR / MP3 format.
+Upload audio material from local, the size of material is not more than 2m, playback length is not more than 60s, support mp3/wma/wav/amr format.
 
 ![Audio](../.gitbook/assets/yu-yin-su-cai-eng.jpg)
 

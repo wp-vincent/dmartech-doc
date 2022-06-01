@@ -30,7 +30,7 @@ New Calculation Model Click the "New Calculation Model" button on the top right 
 
 Click \[User Scoring Matrix Model] to enter the new model creation mode selection, and you can choose \[Convenience Mode] and \[Expert Mode] according to your needs.
 
-![](<.gitbook/assets/image (651).png>)
+![](<.gitbook/assets/image (651) (1).png>)
 
 Take convenient mode as an example, click on convenient mode, you need to select \[Enterprise user pre-set model] or \[Personal consumer pre-set model]. Here the enterprise user pre-set model is mainly for B2B enterprises, while the individual consumer pre-set model is for C-end consumer enterprises.&#x20;
 
